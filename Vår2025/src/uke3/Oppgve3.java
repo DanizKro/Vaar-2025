@@ -24,7 +24,7 @@ public class Oppgve3 {
 //		System.out.println(finnes(tall, 2));
 //		System.out.println(finnes(tall, 5));
 		
-		like(tall, 10);
+		like(tall, 4);
 		
 		System.out.println(tall.removeAll(tall));
 		System.out.println(tall);
@@ -34,13 +34,18 @@ public class Oppgve3 {
 		
 
 }
-	
+	// Sjekker 
 	public static void like(ArrayList<Integer> tabell, int tall) {
+		
+		boolean ikkeFunnet = false;
 		
 		for(int i = 0 ; i < tabell.size(); i++) {
 			if(tabell.get(i) == tall) {
 				System.out.println("Posisjon: " + i);
+				ikkeFunnet = true;
 			} 
+		} if(!ikkeFunnet) {
+			System.out.println("Tallet finnes ikke");
 		}
 	}
 	
