@@ -7,14 +7,45 @@ public class Oppgave4 {
 
 	public static void main(String[] args) {
 		
-		Set<String> names = new HashSet<String>(); 
+		// Mengde, har ingen posisjons index, kan ikke inneholde duplikater
+		Set<String> names = new HashSet<>(); 
 		
-		int sum = -1;
+		names.add("Daniel");
+		names.add("Ole");
+		names.add("Siva");
 		
-		assert sum > 0 : sum;
+		Set<String> names2 = new HashSet<>();
 		
+		names2.add("Leinad");
+		names2.add("Ole");
+		names2.add("Visa");
+		
+		//Skriver ut tabellen 3 ganger, ikke mulig å skirive ut på indeks posisjon
+//		for(String i : names) {
+//			System.out.print(names);
+//		}
+		
+		//Union -> Lager en tabell som bare inneholder bare felles elementer
+		Set<String> snitt = new HashSet<>();
+		
+		for(String i : names) {
+			if(names2.contains(i)) {
+				snitt.add(i);
+			}
+		} 
+		//System.out.print(snitt);
+		
+		
+		//Legger inn 2 tabeller i et HashSet, som ekskluderer kopier -> (Snitt, felles elementer)
+		Set<String> union = new HashSet<>();
+
+		union.addAll(names);
+		union.addAll(names2);
+		
+		//System.out.print(union);
 		
 	}
+	
 	
 	
 	

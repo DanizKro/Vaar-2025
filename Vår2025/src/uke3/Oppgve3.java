@@ -1,18 +1,26 @@
 package uke3;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Oppgve3 {
 
 	public static void main(String[] args) {
 		
-		ArrayList<Integer> tall = new ArrayList<Integer>(); // Lager ny ArrayList object
+		ArrayList<Integer> tall = new ArrayList<>(); // Lager ny ArrayList object
+		
+		List<Integer> listen = new ArrayList<>();
 		
 		tall.add(1);
 		tall.add(2);
 		tall.add(4);
 		tall.add(4);
 		tall.add(4);
+		
+		listen.add(1);
+		listen.add(2);
+		listen.add(3);
+		listen.add(3);
 		
 //		System.out.println(tall);
 //		System.out.println(tall.get(3));
