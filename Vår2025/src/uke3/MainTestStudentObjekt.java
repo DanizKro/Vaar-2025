@@ -16,7 +16,7 @@ public class MainTestStudentObjekt {
 		
 		//Det er ikke lov å legge til et Student-objekt i klassen Nettstudent, fordi Student er superklassen til Nettstudent
 		nettStudent[0] = nettstudent1;
-		nettStudent[1] = student1;
+		// nettStudent[1] = student1;
 		
 		
 	}

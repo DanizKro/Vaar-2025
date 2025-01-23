@@ -4,6 +4,9 @@ public enum Sjanger {
 	
 		KRIM,
 		DRAMA,
-		KOMEDIE
+		KOMEDIE,
+		ACTION,
+		HISTORIE,
+		EVENTYR
 	
 }
