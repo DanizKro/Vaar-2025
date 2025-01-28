@@ -7,6 +7,7 @@ public enum Sjanger {
 		KOMEDIE,
 		ACTION,
 		HISTORIE,
-		EVENTYR
+		EVENTYR, 
+		ANNET
 	
 }

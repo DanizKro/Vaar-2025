@@ -1,0 +1,4 @@
+[Filmnr=1, Produsent=Produsent A, Tittel=Snow White, Lansering=2020, Sjanger=ACTION, Filmselskap=WarnerBrothers]
+[Filmnr=2, Produsent=Produsent B, Tittel=Taken, Lansering=2021, Sjanger=DRAMA, Filmselskap=Netflix]
+[Filmnr=3, Produsent=Produsent C, Tittel=Harry Potter, Lansering=2022, Sjanger=EVENTYR, Filmselskap=SF-Film]
+[Filmnr=1234, Produsent=qpojdqwod, Tittel=åpqwkpåwqk, Lansering=8123, Sjanger=DRAMA, Filmselskap=poqeqwe]
