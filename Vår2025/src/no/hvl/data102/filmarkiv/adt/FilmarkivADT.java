@@ -57,7 +57,6 @@ public interface FilmarkivADT {
 	 */
 	int getAntall();
 
-	Film[] hentFilmTabell();
 }
 
 

@@ -66,7 +66,7 @@ public class Tekstgrensesnitt {
 			System.out.println("Filmer som inneholder > " + delstreng + " < i tittelen:");
 			for (Film film : filmerMedDelstreng) {
 				if (film != null) {
-					
+
 					System.out.println(film);
 				}
 			}
@@ -93,8 +93,8 @@ public class Tekstgrensesnitt {
 
 		if (filmerMedProdusenter != null && filmerMedProdusenter.length > 0) {
 			System.out.println("Filmer som inneholder > " + delstreng + " <  i tittelen:");
-			
-			for(int i = 0; i < filmerMedProdusenter.length; i++) {
+
+			for (int i = 0; i < filmerMedProdusenter.length; i++) {
 				System.out.print(filmerMedProdusenter[i].toString());
 			}
 		} else {
@@ -106,6 +106,26 @@ public class Tekstgrensesnitt {
 	// Skriver ut en enkel statistikk som inneholder antall filmer totalt
 	// og hvor mange det er i hver sjanger.
 	public void skrivUtStatistikk(FilmarkivADT arkiv) {
+
+		System.out.println("Antall Filmer lagret: " + "[" + arkiv.getAntall() + "]");
+
+		int krim = arkiv.antallSjanger(Sjanger.KRIM);
+		int drama = arkiv.antallSjanger(Sjanger.DRAMA);;
+		int komedie = arkiv.antallSjanger(Sjanger.KOMEDIE);;
+		int action = arkiv.antallSjanger(Sjanger.ACTION);
+		int historie = arkiv.antallSjanger(Sjanger.HISTORIE);
+		int eventyr = arkiv.antallSjanger(Sjanger.EVENTYR);
+		int annet = arkiv.antallSjanger(Sjanger.ANNET);
+		
+		System.out.println("Antall filmer i hver sjanger:"+  "\n" 
+							+ "KRIM" + "[" + krim + "]" + "\n"
+							+ "DRAMA" +"[" + drama + "]" + "\n"
+							+ "KOMEDIE" +"[" + komedie + "]" + "\n"
+							+ "ACTION" +"[" + action + "]" + "\n"
+							+ "HISTORIE" +"[" + historie + "]" + "\n"
+							+ "EVENTYR" +"[" + eventyr + "]" + "\n"
+							+ "ANNET" +"[" + annet + "]"
+				);
 		
 		
 

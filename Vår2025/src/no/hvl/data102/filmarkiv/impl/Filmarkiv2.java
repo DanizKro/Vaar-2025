@@ -144,11 +144,6 @@ public class Filmarkiv2 implements FilmarkivADT {
 		
 		return antall;
 	}
-
-	@Override
-	public Film[] hentFilmTabell() {
-		// TODO Auto-generated method stub
-		return null;
-	}
+	
 
 }
