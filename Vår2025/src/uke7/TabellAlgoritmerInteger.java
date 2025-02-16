@@ -8,7 +8,7 @@ public class TabellAlgoritmerInteger {
 	public static void main(String[] args) {
 		
 		Random tilfeldig = new Random(1000);
-		int n = 25; 									//32000 antall tall i hver tabell
+		int n = 25; 									//32000 var forslag antall tall i hver tabell
 		int antall = 10;								 //antall rader nedover 
 		
 		Integer[][] a = new Integer[antall][n];

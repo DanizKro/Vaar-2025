@@ -21,7 +21,7 @@ public class SortingBokObjekter {
 		// start tidsmåling
 		for (int i = 0; i < a.length; i++) {
 			for (int j = 0; j < a[i].length; j++) {
-				sorter(a[i], a[i].length); // a[i] blir ein eindimensjonal tabell
+				sorter(a[i], a[i].length); 				// a[i] blir ein eindimensjonal tabell
 			}
 		}
 		// slutt tidsmåling
