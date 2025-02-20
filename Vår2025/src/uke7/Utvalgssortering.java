@@ -44,7 +44,7 @@ public class Utvalgssortering {
 	}
 
 	// --------------------------------------------------------------------------------------------------------------
-	// Sotertings-algoritme Utvalgsortering;
+	// Sotertings-algoritme Utvalgsortering/Selection sort;
 	public static void sorter(Integer[] tab, int n) {
 
 		for (int i = 0; i < n - 1; i++) {
@@ -66,6 +66,24 @@ public class Utvalgssortering {
 		}
 		return posisjon;
 	}
+	// --------------------------------------------------------------
+	// Utvalgsortering bedre versjon uten ekstra metode-kall;
+		public static void utvalgsortering(Integer[] tab, int n) {
+
+			for (int i = 0; i < n; i++) {
+
+				int min = tab[i];
+				int minIndeks = i;
+
+				for (int j = i + 1; j < n; j++) {
+					if (tab[j].compareTo(min) < 0) {
+						min = tab[j];
+						minIndeks = j;
+					}
+				}
+				swap(tab, i, minIndeks);
+			}
+		}
 
 	private static void swap(Integer[] tab, int i, int j) {
 

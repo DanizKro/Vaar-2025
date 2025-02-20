@@ -7,8 +7,8 @@ public class OppgaverUke7 {
 	public static void main(String[] args) {
 
 		Random tilfeldig = new Random(1000);
-		int n = 2000; // 32000 var forslag antall tall i hver tabell
-		int antall = 10; // antall rader nedover
+		int n = 1000; // 32000 var forslag antall men alt for langt
+		int antall = 5; // antall rader nedover
 
 //		System.out.println("Sortert tabell: ");
 //		for (int i = 0; i < a1.length; i++) {
@@ -23,8 +23,7 @@ public class OppgaverUke7 {
 		// set inn tilfeldige heiltal i alle rekker
 		for (int i = 0; i < antall; i++) {
 			for (int j = 0; j < n; j++) {
-				a1[i][j] = tilfeldig.nextInt(1000); // hvis man tar tom parameterliste er random tall fra -int long til
-													// +int long.
+				a1[i][j] = tilfeldig.nextInt(1000); // hvis man tar tom parameterliste er random tall fra -int long til +int long.
 			}
 		}
 		// Tabell nummer 2
@@ -50,7 +49,7 @@ public class OppgaverUke7 {
 		}
 		// ------------------------------------------
 		// InsertionSort
-		String insertion = "InsertionSort: ";
+		String insertion = "InsertionSort(O=n^2): ";
 		long start = System.currentTimeMillis();
 		for (int i = 0; i < a1.length; i++) {
 			for (int j = 0; j < a1[i].length; j++) {
@@ -60,19 +59,19 @@ public class OppgaverUke7 {
 		long slutt = System.currentTimeMillis();
 		double tid = (slutt - start) / 1000;
 		// -------------------------------------------
-		// DobbelInsertionSort
-		String dobbelInsertion = "dobbelInsertionSort: ";
+		// Utvalgssortering
+		String utvalgsSortering = "Utvalgssortering(O=n^2): ";
 		long start2 = System.currentTimeMillis();
 		for (int i = 0; i < a2.length; i++) {
 			for (int j = 0; j < a2[i].length; j++) {
-				dobbelInsertionSort(a2[i], a2[i].length);
+				utvalgsortering(a2[i], a2[i].length);
 			}
 		}
 		long slutt2 = System.currentTimeMillis();
 		double tid2 = (slutt2 - start2) / 1000;
 		// -------------------------------------------
 		// Quicksort
-		String quickSort = "Quicksort: ";
+		String quickSort = "Quicksort(O=n*log(n)): ";
 		long start3 = System.currentTimeMillis();
 		for (int i = 0; i < a3.length; i++) {
 			for (int j = 0; j < a3[i].length; j++) {
@@ -84,7 +83,7 @@ public class OppgaverUke7 {
 		double tid3 = (slutt3 - start3) / 1000;
 		// -------------------------------------------
 		// Flettesortering
-		String fletteSortering = "Flettesortering: ";
+		String fletteSortering = "Flettesortering(O=n*log(n)): ";
 		long start4 = System.currentTimeMillis();
 		for (int i = 0; i < a4.length; i++) {
 			for (int j = 0; j < a4[i].length; j++) {
@@ -96,10 +95,18 @@ public class OppgaverUke7 {
 		double tid4 = (slutt4 - start4) / 1000;
 		
 		System.out.println(insertion + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid + " sekunder");
-		System.out.println(dobbelInsertion + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid2 + " sekunder");
+		System.out.println();
+		System.out.println(utvalgsSortering + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid2 + " sekunder");
+		System.out.println();
 		System.out.println(quickSort + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid3 + " sekunder");
+		System.out.println();
 		System.out.println(fletteSortering + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid4 + " sekunder");
 
+		//Diskusjon:
+		
+		
+		
+		
 	}
 
 	// --------------------------------------------------------------------------------------------------------------
@@ -119,8 +126,7 @@ public class OppgaverUke7 {
 		}
 	}
 
-	// --------------------------------------------------------------------------------------------------------------
-
+	// -------------------------------------------------------------------------------------------------------------
 	// dobbelInsertionSort
 	public static void dobbelInsertionSort(Integer[] tab, int n) {
 
@@ -177,24 +183,19 @@ public class OppgaverUke7 {
 	// Utvalgsortering;
 	public static void utvalgsortering(Integer[] tab, int n) {
 
-		for (int i = 0; i < n - 1; i++) {
-			int indexOfNextSmallest = getIndexOfSmallest(tab, i, n - 1);
-			swap(tab, i, indexOfNextSmallest);
-		}
-	}
+		for (int i = 0; i < n; i++) {
 
-	private static int getIndexOfSmallest(Integer[] tab, int start, int siste) {
+			int min = tab[i];
+			int minIndeks = i;
 
-		int min = tab[start];
-		int posisjon = start;
-
-		for (int i = start + 1; i <= siste; i++) {
-			if (tab[i].compareTo(min) < 0) {
-				min = tab[i];
-				posisjon = i;
+			for (int j = i + 1; j < n; j++) {
+				if (tab[j].compareTo(min) < 0) {
+					min = tab[j];
+					minIndeks = j;
+				}
 			}
+			swap(tab, i, minIndeks);
 		}
-		return posisjon;
 	}
 
 	private static void swap(Integer[] tab, int i, int j) {
@@ -324,7 +325,7 @@ public class OppgaverUke7 {
 	}
 	// --------------------------------------------------------------------------------------------------------------
 
-	// Flettesorterings metoder
+	// Flettesorterings
 	public static <T extends Comparable<? super T>> void flettesortering(T[] a, int n) {
 		flettesortering(a, 0, n - 1);
 	}
