@@ -8,7 +8,7 @@ public class OppgaverUke7 {
 
 		Random tilfeldig = new Random(1000);
 		int n = 2000; // 32000 var forslag antall tall i hver tabell
-		int antall = 50; // antall rader nedover
+		int antall = 10; // antall rader nedover
 
 //		System.out.println("Sortert tabell: ");
 //		for (int i = 0; i < a1.length; i++) {
@@ -95,10 +95,10 @@ public class OppgaverUke7 {
 		// slutt tidsmåling
 		double tid4 = (slutt4 - start4) / 1000;
 		
-		System.out.println("n = " + "[" + n + "]" + "Tid " + insertion + tid);
-		System.out.println(dobbelInsertion + tid2);
-		System.out.println(quickSort + tid3);
-		System.out.println(fletteSortering + tid4);
+		System.out.println(insertion + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid + " sekunder");
+		System.out.println(dobbelInsertion + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid2 + " sekunder");
+		System.out.println(quickSort + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid3 + " sekunder");
+		System.out.println(fletteSortering + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid4 + " sekunder");
 
 	}
 
