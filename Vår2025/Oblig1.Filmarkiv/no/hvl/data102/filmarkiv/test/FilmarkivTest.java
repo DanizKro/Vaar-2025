@@ -4,12 +4,19 @@ import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
+
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import no.hvl.data102.filmarkiv.impl.Film;
 import no.hvl.data102.filmarkiv.impl.Sjanger;
 import no.hvl.data102.filmarkiv.impl.Filmarkiv;
 
 public class FilmarkivTest {
+	
+	@BeforeEach
+	void oppsett(){
+		
+	}
 
 	@Test
 	void finnFilm() {

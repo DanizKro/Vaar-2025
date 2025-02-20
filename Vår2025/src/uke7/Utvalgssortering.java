@@ -8,8 +8,8 @@ public class Utvalgssortering {
 	public static void main(String[] args) {
 
 		Random tilfeldig = new Random(1000);
-		int n = 50; // 32000 var forslag antall tall i hver tabell
-		int antall = 500; // antall rader nedover
+		int n = 10; // 32000 var forslag antall tall i hver tabell
+		int antall = 5; // antall rader nedover
 
 		Integer[][] a = new Integer[antall][n];
 		// set inn tilfeldige heiltal i alle rekker
@@ -23,7 +23,8 @@ public class Utvalgssortering {
 		long start = System.currentTimeMillis();
 		for (int i = 0; i < a.length; i++) {
 			for (int j = 0; j < a[i].length; j++) {
-				sorter(a[i], a[i].length); // a[i] blir ein eindimensjonal tabell
+				//sorter(a[i], a[i].length); // a[i] blir ein eindimensjonal tabell
+				sorter(a[i], a[i].length);
 			}
 		}
 		long slutt = System.currentTimeMillis();
@@ -40,15 +41,9 @@ public class Utvalgssortering {
 			System.out.println();
 		}
 
-		
-		
-		
-		
-		
-		
 	}
-	  
-	//--------------------------------------------------------------------------------------------------------------
+
+	// --------------------------------------------------------------------------------------------------------------
 	// Sotertings-algoritme Utvalgsortering;
 	public static void sorter(Integer[] tab, int n) {
 
@@ -62,7 +57,7 @@ public class Utvalgssortering {
 
 		int min = tab[start];
 		int posisjon = start;
-		
+
 		for (int i = start + 1; i <= siste; i++) {
 			if (tab[i].compareTo(min) < 0) {
 				min = tab[i];
@@ -79,6 +74,5 @@ public class Utvalgssortering {
 		tab[j] = temp;
 
 	}
-	//--------------------------------------------------------------------------------------------------------------
-	
+
 }
