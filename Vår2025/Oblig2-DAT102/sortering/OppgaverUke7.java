@@ -182,20 +182,24 @@ public class OppgaverUke7 {
 
 	// Utvalgsortering;
 	public static void utvalgsortering(Integer[] tab, int n) {
-
-		for (int i = 0; i < n; i++) {
-
-			int min = tab[i];
-			int minIndeks = i;
-
-			for (int j = i + 1; j < n; j++) {
-				if (tab[j].compareTo(min) < 0) {
-					min = tab[j];
-					minIndeks = j;
-				}
-			}
-			swap(tab, i, minIndeks);
+		for (int i = 0; i < n - 1; i++) {
+			int indexOfNextSmallest = getIndexOfSmallest(tab, i, n - 1);
+			swap(tab, i, indexOfNextSmallest);
 		}
+	}
+
+	private static int getIndexOfSmallest(Integer[] tab, int start, int siste) {
+
+		int min = tab[start];
+		int posisjon = start;
+
+		for (int i = start + 1; i <= siste; i++) {
+			if (tab[i].compareTo(min) < 0) {
+				min = tab[i];
+				posisjon = i;
+			}
+		}
+		return posisjon;
 	}
 
 	private static void swap(Integer[] tab, int i, int j) {
@@ -207,21 +211,16 @@ public class OppgaverUke7 {
 	// --------------------------------------------------------------------------------------------------------------
 
 	// Kvikksortering
-	public static <T extends Comparable<? super T>> void kvikksorter(T[] a) {
+	public static void kvikksorter(Integer[] a) {
 		kvikksorter(a, 0, a.length - 1);
-		sorterVedInnsetting(a);
+		insertionSort(a, a.length);
 	}
 
 	private static final int MIN_GRENSE = 3;
 
-	private static <T extends Comparable<? super T>> void kvikksorter(T[] a, int forste, int siste) {
+	private static void kvikksorter(Integer[] a, int forste, int siste) {
 
 		if (siste - forste + 1 < MIN_GRENSE) {
-			/*
-			 * Basistilfelle: Gjer ingenting Boken kaller sortering ved innsetting på
-			 * elementa som er att, men det er meir effektivt å kalle soertering ved
-			 * innsetting på heile tabellen til slutt. Dette skjer i public-metoden over.
-			 */
 		} else {
 			int delepunkt = partition(a, forste, siste);
 			kvikksorter(a, forste, delepunkt - 1);
@@ -230,17 +229,15 @@ public class OppgaverUke7 {
 		}
 	}
 
-	private static <T extends Comparable<? super T>> int partition(T[] a, int forste, int siste) {
+	private static int partition(Integer[] a, int forste, int siste) {
 		int midten = (forste + siste) / 2;
-
-		// Ordnar første, midterse og siste element slik at dei står rett i forhold til
-		// kvarandre
+		
 		sortFirstMiddleLast(a, forste, midten, siste);
 
 		// Flyttar pivot til nest siste plass
 		swap(a, midten, siste - 1);
 		int pivotIndex = siste - 1;
-		T pivotValue = a[pivotIndex];
+		int pivotValue = a[pivotIndex];
 
 		// Finn første i venstre del som er mindre større enn pivot
 		// siste i høgre del som er mindre enn pivot
@@ -275,22 +272,15 @@ public class OppgaverUke7 {
 		return pivotIndex;
 	}
 
-	// Sorts the first, middle, and last entries of an array into ascending order.
-	// Parameters:
-	// a An array of Comparable objects.
-	// first The integer index of the first array entry;
-	// first >= 0 and < a.length.
-	// mid The integer index of the middle array entry.
-	// last The integer index of the last array entry;
-	// last - first >= 2, last < a.length.
-	private static <T extends Comparable<? super T>> void sortFirstMiddleLast(T[] a, int first, int mid, int last) {
+	
+	private static void sortFirstMiddleLast(Integer[] a, int first, int mid, int last) {
 		order(a, first, mid); // Make a[first] <= a[mid]
 		order(a, mid, last); // Make a[mid] <= a[last]
 		order(a, first, mid); // Make a[first] <= a[mid]
 	} // end sortFirstMiddleLast
 
 	// Orders two given array elements into ascending order so that a[i] <= a[j].
-	private static <T extends Comparable<? super T>> void order(T[] a, int i, int j) {
+	private static void order(Integer[] a, int i, int j) {
 		if (a[i].compareTo(a[j]) > 0) {
 			swap(a, i, j);
 		}
@@ -302,31 +292,11 @@ public class OppgaverUke7 {
 		a[j] = temp;
 	}
 
-	public static <T extends Comparable<? super T>> void sorterVedInnsetting(T[] a) {
-		sorterVedInnsetting(a, 0, a.length - 1);
-	}
-
-	public static <T extends Comparable<? super T>> void sorterVedInnsetting(T[] a, int forste, int siste) {
-
-		for (int i = forste + 1; i <= siste; i++) {
-
-			T temp = a[i];
-			int j = i - 1;
-
-			// finn rett plass
-			while (j >= forste && temp.compareTo(a[j]) < 0) {
-				a[j + 1] = a[j];
-				j--;
-			}
-
-			a[j + 1] = temp;
-		}
-
-	}
+	
 	// --------------------------------------------------------------------------------------------------------------
 
 	// Flettesorterings
-	public static <T extends Comparable<? super T>> void flettesortering(T[] a, int n) {
+	public static void flettesortering(Integer[] a, int n) {
 		flettesortering(a, 0, n - 1);
 	}
 
