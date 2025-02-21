@@ -7,8 +7,8 @@ public class OppgaverUke7 {
 	public static void main(String[] args) {
 
 		Random tilfeldig = new Random(1000);
-		int n = 1000; // 32000 var forslag antall men alt for langt
-		int antall = 5; // antall rader nedover
+		int n = 3000; // 32000 var forslag antall men alt for langt
+		int antall = 10; // antall rader nedover
 
 //		System.out.println("Sortert tabell: ");
 //		for (int i = 0; i < a1.length; i++) {
@@ -225,7 +225,6 @@ public class OppgaverUke7 {
 			int delepunkt = partition(a, forste, siste);
 			kvikksorter(a, forste, delepunkt - 1);
 			kvikksorter(a, delepunkt + 1, siste);
-
 		}
 	}
 
@@ -234,13 +233,9 @@ public class OppgaverUke7 {
 		
 		sortFirstMiddleLast(a, forste, midten, siste);
 
-		// Flyttar pivot til nest siste plass
 		swap(a, midten, siste - 1);
 		int pivotIndex = siste - 1;
 		int pivotValue = a[pivotIndex];
-
-		// Finn første i venstre del som er mindre større enn pivot
-		// siste i høgre del som er mindre enn pivot
 
 		int fraVenstre = forste + 1;
 		int fraHogre = siste - 2;
@@ -264,8 +259,6 @@ public class OppgaverUke7 {
 				ferdig = true;
 			}
 		}
-
-		// Place pivotValue between the subarrays Smaller and Larger
 		swap(a, pivotIndex, fraVenstre);
 		pivotIndex = fraVenstre;
 
@@ -274,12 +267,11 @@ public class OppgaverUke7 {
 
 	
 	private static void sortFirstMiddleLast(Integer[] a, int first, int mid, int last) {
-		order(a, first, mid); // Make a[first] <= a[mid]
-		order(a, mid, last); // Make a[mid] <= a[last]
-		order(a, first, mid); // Make a[first] <= a[mid]
-	} // end sortFirstMiddleLast
+		order(a, first, mid); 
+		order(a, mid, last); 
+		order(a, first, mid); 
+	}
 
-	// Orders two given array elements into ascending order so that a[i] <= a[j].
 	private static void order(Integer[] a, int i, int j) {
 		if (a[i].compareTo(a[j]) > 0) {
 			swap(a, i, j);
@@ -301,46 +293,35 @@ public class OppgaverUke7 {
 	}
 
 	// sorterer heile tabellen
-	public static <T extends Comparable<? super T>> void flettesortering(T[] a) {
+	public static void flettesortering(Integer[] a) {
 		flettesortering(a, 0, a.length - 1);
 	}
 
-	public static <T extends Comparable<? super T>> void flettesortering(T[] a, int first, int last) {
+	public static void flettesortering(Integer[] a, int first, int last) {
 
-		// The cast is safe because the new array contains null entries
-		@SuppressWarnings("unchecked")
-		T[] tempArray = (T[]) new Comparable<?>[a.length]; // unchecked cast
+		Integer[] tempArray = new Integer[a.length];
 		flettesortering(a, tempArray, first, last);
 	}
 
-	private static <T extends Comparable<? super T>> void flettesortering(T[] a, T[] tempTab, int forste, int siste) {
+	private static void flettesortering(Integer[] a, Integer[] tempTab, int forste, int siste) {
 
 		if (forste >= siste) {
-			/*
-			 * basis: Gjer ingenting Dette er eit triks for å vise at vi har tenkt på
-			 * basistilfelle. Kunne i staden utelate dette og teste om første < siste og så
-			 * gått rett på delen i else-blokka.
-			 */
 		} else {
 			int midtpkt = (forste + siste) / 2;
 			flettesortering(a, tempTab, forste, midtpkt);
 			flettesortering(a, tempTab, midtpkt + 1, siste);
 			flett(a, tempTab, forste, midtpkt, siste);
 		}
-
 	}
 
-	private static <T extends Comparable<? super T>> void flett(T[] a, T[] tempTab, int forste, int midten, int siste) {
+	private static void flett(Integer[] a, Integer[] tempTab, int forste, int midten, int siste) {
 
-		// Flettar saman to deler som ligg ved sida av kvaranre
-		// forste, ..., midten og midten + 1, ..., siste
 		int fV = forste;
 		int sluttV = midten;
 		int fH = midten + 1;
 		int sluttH = siste;
 
-		// Så lenge det er element att i begge delane, flytt over den minste til tempTab
-		int index = fV; // Next available location in tempArray
+		int index = fV;
 		for (; (fV <= sluttV) && (fH <= sluttH); index++) {
 			if (a[fV].compareTo(a[fH]) < 0) {
 				tempTab[index] = a[fV];
@@ -351,19 +332,12 @@ public class OppgaverUke7 {
 			}
 		}
 
-		// No vil ein av delane vere to. Kopierer over resten i den andre delen
-
-		// Venstre del, kan vere tom
 		for (; fV <= sluttV; fV++, index++) {
 			tempTab[index] = a[fV];
 		}
-
-		// Høgre del, kan vere tom
 		for (; fH <= sluttH; fH++, index++) {
 			tempTab[index] = a[fH];
 		}
-
-		// Kopier den sorterte delen tilbake
 		for (index = forste; index <= siste; index++) {
 			a[index] = tempTab[index];
 		}
