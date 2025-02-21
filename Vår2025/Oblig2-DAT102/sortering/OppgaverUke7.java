@@ -7,8 +7,8 @@ public class OppgaverUke7 {
 	public static void main(String[] args) {
 
 		Random tilfeldig = new Random(1000);
-		int n = 3000; // 32000 var forslag antall men alt for langt
-		int antall = 10; // antall rader nedover
+		int n = 5000; // 32000 var forslag antall men alt for langt
+		int antall = 1; // antall rader nedover
 
 //		System.out.println("Sortert tabell: ");
 //		for (int i = 0; i < a1.length; i++) {
@@ -23,7 +23,8 @@ public class OppgaverUke7 {
 		// set inn tilfeldige heiltal i alle rekker
 		for (int i = 0; i < antall; i++) {
 			for (int j = 0; j < n; j++) {
-				a1[i][j] = tilfeldig.nextInt(1000); // hvis man tar tom parameterliste er random tall fra -int long til +int long.
+				a1[i][j] = tilfeldig.nextInt(1000); // hvis man tar tom parameterliste er random tall fra -int long til
+													// +int long.
 			}
 		}
 		// Tabell nummer 2
@@ -45,6 +46,13 @@ public class OppgaverUke7 {
 		for (int i = 0; i < antall; i++) {
 			for (int j = 0; j < n; j++) {
 				a4[i][j] = tilfeldig.nextInt(1000);
+			}
+		}
+		// Tabell nummer 5 - LIKE ELEMENTER
+		Integer[][] sortertTabell = new Integer[antall][n];
+		for (int i = 0; i < antall; i++) {
+			for (int j = 0; j < n; j++) {
+				sortertTabell[i][j] = 1;
 			}
 		}
 		// ------------------------------------------
@@ -94,6 +102,20 @@ public class OppgaverUke7 {
 		// slutt tidsmåling
 		double tid4 = (slutt4 - start4) / 1000;
 		
+		// -------------------------------------------
+		// Quicksort 2 på en tabell med like elementer >>>>>>>>>>>>>>
+		String quickSort2 = "Quicksort(O=n*log(n)): ";
+		long start5 = System.currentTimeMillis();
+		for (int i = 0; i < sortertTabell.length; i++) {
+			for (int j = 0; j < sortertTabell[i].length; j++) {
+				kvikksorter(sortertTabell[i]);
+			}
+		}
+		long slutt5 = System.currentTimeMillis();
+		// slutt tidsmåling
+		double tid5 = (slutt5 - start5) / 1000;
+		// -----------------------------
+
 		System.out.println(insertion + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid + " sekunder");
 		System.out.println();
 		System.out.println(utvalgsSortering + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid2 + " sekunder");
@@ -101,12 +123,12 @@ public class OppgaverUke7 {
 		System.out.println(quickSort + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid3 + " sekunder");
 		System.out.println();
 		System.out.println(fletteSortering + "\n" + "Antall rader"+ "["+antall+"] " + "n =" + "[" + n + "] " + "Tid: " + tid4 + " sekunder");
+		System.out.println("");
+		System.out.println("Quicksort med like elementer: ");
+		System.out.println(quickSort2 + "\n" + "Antall rader" + "[" + antall + "] " + "n =" + "[" + n + "] " + "Tid: "
+				+ tid5 + " sekunder");
+	
 
-		//Diskusjon:
-		
-		
-		
-		
 	}
 
 	// --------------------------------------------------------------------------------------------------------------
@@ -230,7 +252,7 @@ public class OppgaverUke7 {
 
 	private static int partition(Integer[] a, int forste, int siste) {
 		int midten = (forste + siste) / 2;
-		
+
 		sortFirstMiddleLast(a, forste, midten, siste);
 
 		swap(a, midten, siste - 1);
@@ -265,11 +287,10 @@ public class OppgaverUke7 {
 		return pivotIndex;
 	}
 
-	
 	private static void sortFirstMiddleLast(Integer[] a, int first, int mid, int last) {
-		order(a, first, mid); 
-		order(a, mid, last); 
-		order(a, first, mid); 
+		order(a, first, mid);
+		order(a, mid, last);
+		order(a, first, mid);
 	}
 
 	private static void order(Integer[] a, int i, int j) {
@@ -284,7 +305,6 @@ public class OppgaverUke7 {
 		a[j] = temp;
 	}
 
-	
 	// --------------------------------------------------------------------------------------------------------------
 
 	// Flettesorterings
