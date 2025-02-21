@@ -7,7 +7,7 @@ public class OppgaverUke7 {
 	public static void main(String[] args) {
 
 		Random tilfeldig = new Random(1000);
-		int n = 5000; // 32000 var forslag antall men alt for langt
+		int n = 2000; // 32000 var forslag antall men alt for langt
 		int antall = 1; // antall rader nedover
 
 //		System.out.println("Sortert tabell: ");
