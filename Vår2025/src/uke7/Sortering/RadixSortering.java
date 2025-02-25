@@ -1,4 +1,4 @@
-package uke7;
+package uke7.Sortering;
 
 import java.util.Random;
 
@@ -67,12 +67,12 @@ public class RadixSortering {
 
 	// Counting Sort som sorterer basert på et bestemt siffer (exp)
 	private static void countingSort(int[] tab, int exp) {
-		int n = tab.length;
-		int[] output = new int[n]; // Midlertidig array for sortering
+		
+		int[] output = new int[tab.length]; // Midlertidig array for sortering
 		int[] count = new int[10]; // Teller array for sifrene 0-9
 
 		// Tell forekomsten av hvert siffer på nåværende eksponentplass
-		for (int i = 0; i < n; i++) {
+		for (int i = 0; i < tab.length; i++) {
 			int index = (tab[i] / exp) % 10;
 			count[index]++;
 		}
@@ -83,13 +83,13 @@ public class RadixSortering {
 		}
 
 		// Bygg det sorterte output-arrayet
-		for (int i = n - 1; i >= 0; i--) {
+		for (int i = tab.length - 1; i >= 0; i--) {
 			int index = (tab[i] / exp) % 10;
 			output[count[index] - 1] = tab[i];
 			count[index]--;
 		}
 
 		// Kopier det sorterte resultatet tilbake til original-arrayet
-		System.arraycopy(output, 0, tab, 0, n);
+		System.arraycopy(output, 0, tab, 0, tab.length);
 	}
 }

@@ -1,4 +1,4 @@
-package uke7;
+package uke7.Sortering;
 
 import java.time.*;
 import java.util.Random;

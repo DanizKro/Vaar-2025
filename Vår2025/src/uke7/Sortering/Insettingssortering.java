@@ -1,4 +1,4 @@
-package uke7;
+package uke7.Sortering;
 
 import java.util.Random;
 
@@ -53,20 +53,21 @@ public class Insettingssortering {
 
 	// --------------------------------------------------------------------------------------------------------------
 
-	public static void insertionSort(Integer[] a, int n) {
+	public static void insertionSort(Integer[] tab, int n) {
 
 		for (int i = 1; i < n; i++) {
-			int temp = a[i];
+			int temp = tab[i];
 			int j = i - 1;
 
-			while (j >= 0 && a[j] > temp) {
-				a[j + 1] = a[j];
+			while (j >= 0 && tab[j] > temp) {
+				tab[j + 1] = tab[j];
 				j--;
 			}
-			a[j + 1] = temp;
+			tab[j + 1] = temp;
 		}
 	}
-
+	// --------------------------------------------------------------------------------------------------------------
+	
 	public static void dobbelInsertionSort(Integer[] tab, int n) {
 
 		for (int i = 1; i < n - 1; i += 2) {
