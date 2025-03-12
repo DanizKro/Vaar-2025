@@ -9,6 +9,7 @@
 	<classpathentry kind="src" path="Oblig1.Filmarkiv"/>
 	<classpathentry kind="src" path="Oblig2-DAT102"/>
 	<classpathentry kind="src" path="PensumAlgoritmer"/>
+	<classpathentry kind="src" path="Oblig3"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
