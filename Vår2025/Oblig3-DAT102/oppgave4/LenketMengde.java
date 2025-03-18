@@ -69,6 +69,7 @@ public class LenketMengde<T> implements MengdeADT<T> {
 			return false; // Mengdene kan ikke være like hvis de har ulik størrelse
 		}
 		Node temp = forste;
+		
 
 		while (temp != null) {
 			if (!annenMengde.inneholder(temp.data)) {
