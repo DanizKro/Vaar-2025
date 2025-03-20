@@ -154,6 +154,7 @@ public class LenketMengde<T> implements MengdeADT<T> {
 
 		// Sjekker om elementet inneholder i mengden fra før
 		Node temp = forste;
+		
 		while (temp != null) {
 			if (temp.data == element) {
 				throw new IllegalArgumentException("Elementet inneholder i mengden fra før");
@@ -177,11 +178,7 @@ public class LenketMengde<T> implements MengdeADT<T> {
 	@Override
 	public void leggTilAlleFra(MengdeADT<T> annenMengde) {
 
-		Node temp = forste;
-
 		T[] tab = annenMengde.tilTabell();
-
-		int index = 0;
 
 		for (int i = 0; i < tab.length; i++) {
 			if (!this.inneholder(tab[i])) { // Hvis elementet finnes True, blir den omgjort til False, og elemenetet

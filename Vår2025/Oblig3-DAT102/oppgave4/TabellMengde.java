@@ -42,9 +42,11 @@ public class TabellMengde<T> implements MengdeADT {
 	@Override
 	public boolean erDelmengdeAv(MengdeADT annenMengde) {
 
-		for (int i = 0; i < antall; i++) {
-			if (!annenMengde.inneholder(tabell[i])) {
-				return true;
+		if (antall < annenMengde.antallElementer()) {
+			for (int i = 0; i < antall; i++) {
+				if (!annenMengde.inneholder(tabell[i])) {
+					return true;
+				}
 			}
 		}
 		return false;
@@ -53,6 +55,10 @@ public class TabellMengde<T> implements MengdeADT {
 	@Override
 	public boolean erLik(MengdeADT annenMengde) {
 
+		if (antall != annenMengde.antallElementer()) {
+			return false; // Mengdene kan ikke være like hvis de har ulik størrelse
+		}
+		
 		int teller = 0;
 
 		for (int i = 0; i < antall; i++) {
@@ -80,7 +86,7 @@ public class TabellMengde<T> implements MengdeADT {
 	@Override
 	public MengdeADT snitt(MengdeADT annenMengde) {
 
-		TabellMengde<T> snitt = (TabellMengde<T>) new TabellMengde<>();
+		MengdeADT<T> snitt = new TabellMengde<>();
 
 		for (int i = 0; i < antall; i++) {
 			if (annenMengde.inneholder(tabell[i])) {
@@ -94,36 +100,36 @@ public class TabellMengde<T> implements MengdeADT {
 	@Override
 	public MengdeADT union(MengdeADT annenMengde) {
 
-		TabellMengde<T> union = (TabellMengde<T>) new TabellMengde<>();
+		MengdeADT<T> union = new TabellMengde<>();
 		Object[] mengde = annenMengde.tilTabell();
-		
-		//først legge til tabell
-		for(int i = 0; i < antall; i++) {
+
+		// først legge til tabell
+		for (int i = 0; i < antall; i++) {
 			union.leggTil(tabell[i]);
 		}
-		//legger til tabellen som skal være i union
-	    for (int i = 0; i < mengde.length; i++) {
-	        if (!union.inneholder(mengde[i])) { //sjekker for duplikater
-	            union.leggTil((T) mengde[i]);
-	        }
-	    }
+		// legger til tabellen som skal være i union
+		for (int i = 0; i < mengde.length; i++) {
+			if (!union.inneholder((T) mengde[i])) { // sjekker for duplikater
+				union.leggTil((T) mengde[i]);
+			}
+		}
 
 		return union;
 	}
 
 	@Override
 	public MengdeADT minus(MengdeADT annenMengde) {
-		
+
 		MengdeADT<T> mengdeDifferanse = new TabellMengde<>();
-		
-		//legger til alle elementer fra første tabell som IKKE er felles elementer
-		for(int i = 0; i < antall; i++) {
-			
-			if(!annenMengde.inneholder(tabell[i])) {
+
+		// legger til alle elementer fra første tabell som IKKE er felles elementer
+		for (int i = 0; i < antall; i++) {
+
+			if (!annenMengde.inneholder(tabell[i])) {
 				mengdeDifferanse.leggTil(tabell[i]);
 			}
 		}
-		
+
 		return mengdeDifferanse;
 	}
 
@@ -150,10 +156,11 @@ public class TabellMengde<T> implements MengdeADT {
 			tabell[antall + i] = (T) tab[i];
 		}
 		antall += annenMengde.antallElementer();
-		
-		// Kan også bruke den under: fordi annenMengde.tilTabell() tar bare med elementer som
+
+		// Kan også bruke den under: fordi annenMengde.tilTabell() tar bare med
+		// elementer som
 		// faktisk er i tabellen
-		
+
 //		antall += tab.length;
 	}
 
@@ -184,8 +191,8 @@ public class TabellMengde<T> implements MengdeADT {
 			tab[i] = tabell[i];
 		}
 		return tab;
-		
-		//eventuelt bruke innebygget Arrays.copyOf fra Java:
+
+		// eventuelt bruke innebygget Arrays.copyOf fra Java:
 //		return Arrays.copyOf(tabell, antall);
 	}
 
