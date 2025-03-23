@@ -53,7 +53,7 @@ public class SokHashSet {
         long tidBinarySearch = System.nanoTime() - startBi;
 
         
-        //Fått hjelp med utskriftsmetode, hvorfor 1_000_00.0?
+        //Litt usikker på hvorfor 1_000_00.0? Hva gjør understreken?
         System.out.println("Antall treff i HashSet: " + funnetHashSet);
         System.out.println("Tid for HashSet-søk: " + (tidHashSet / 1_000_000.0) + " ms");
 
