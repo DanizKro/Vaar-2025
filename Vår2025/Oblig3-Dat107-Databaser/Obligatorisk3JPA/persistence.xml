@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" 
+		version="3.0">		
+
+	<persistence-unit name="AnsattProsjektPU" transaction-type="RESOURCE_LOCAL">
+	
+		<class>no.hvl.dat107.entity.Ansatt</class>
+        <class>no.hvl.dat107.entity.Prosjekt</class>
+        <class>no.hvl.dat107.entity.Prosjektdeltagelse</class>
+        
+		<properties>
+		    <!--  Generelle JPA properties -->
+			<property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
+			<property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://ider-database.westeurope.cloudapp.azure.com:5433/h186480"/>
+			<property name="jakarta.persistence.jdbc.user" value="h186480"/>
+			
+			<!-- Passordet blir satt i Java-koden i stedet -->
+				<property name="jakarta.persistence.jdbc.password" value="12Tusenfryd"/>
+			
+			<!--  EclipseLink properties -->
+	        <!--  Se https://wiki.eclipse.org/EclipseLink/Examples/JPA/Logging -->
+	        <property name="eclipselink.logging.level" value="WARNING"/>
+		</properties>
+	
+	</persistence-unit>
+</persistence> 
