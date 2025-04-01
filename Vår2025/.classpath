@@ -10,7 +10,10 @@
 	<classpathentry kind="src" path="Oblig2-DAT102"/>
 	<classpathentry kind="src" path="PensumAlgoritmer"/>
 	<classpathentry kind="src" path="Oblig3-DAT102"/>
-	<classpathentry kind="src" path="Oblig3-Dat107-Databaser"/>
+	<classpathentry kind="src" path="Oblig3.DAT107.Databaser"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/f1-eksempel2-personer-jpa/lib/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="src" path="/f5-eksempel3b-sammensatt-pk"/>
+	<classpathentry kind="lib" path="/f2-eksempel1-crud-losning/lib/eclipselink-4.0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

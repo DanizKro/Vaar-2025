@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Vår2025/Oblig1.Filmarkiv"/>
+	<classpathentry kind="src" path="Vår2025/Oblig2-DAT102"/>
+	<classpathentry kind="src" path="Vår2025/Oblig3-DAT102"/>
+	<classpathentry kind="src" path="Vår2025/Oblig3-Dat107-Databaser"/>
+	<classpathentry kind="src" path="Vår2025/PensumAlgoritmer"/>
+	<classpathentry kind="src" path="Vår2025/src"/>
+	<classpathentry kind="output" path="Vår2025/bin"/>
+</classpath>
