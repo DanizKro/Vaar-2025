@@ -1,48 +1,89 @@
 package Uke13;
 
-import java.util.LinkedList;
-
 public class BilskiltHashTable {
-    private static final int TABLE_SIZE = 10;
-    private String[] table;
 
-    public BilskiltHashTable() {
-        table = new String[TABLE_SIZE];
-    }
+	private static final int TABLE_SIZE = 10;
+	private String[] table;
+	private int storrelse;
 
-    // Hash-funksjon som returnerer siste siffer i bilnummeret
-    private int hash(String bilskilt) {
-        bilskilt = bilskilt.trim().toUpperCase();
-        
-        // Finner det siste sifferet
-        for (int i = bilskilt.length() - 1; i >= 0; i--) {
-            char c = bilskilt.charAt(i);
-            if (Character.isDigit(c)) {
-                return Character.getNumericValue(c) % TABLE_SIZE;
-            }
-        }
-        return 0;
-    }
+	public BilskiltHashTable() {
+		table = new String[TABLE_SIZE];
+	}
+	public BilskiltHashTable(int storrelse) {
+		table = new String[storrelse];
+		this.storrelse = storrelse;
+	}
 
-    // Linear probing
-    public void insert(String bilskilt) {
-        int index = hash(bilskilt);
-        int originalIndex = index;
-        
-        while (table[index] != null) {
-            index = (index + 1) % TABLE_SIZE; // Linear probing
-            if (index == originalIndex) {
-                System.out.println("Tabellen er full, kan ikke sette inn " + bilskilt);
-                return;
-            }
-        }
-        
-        table[index] = bilskilt;
-    }
+	public int hash(String bilskilt) {
 
-    public void displayTable() {
-        for (int i = 0; i < TABLE_SIZE; i++) {
-            System.out.println("Index " + i + ": " + (table[i] != null ? table[i] : "tom"));
-        }
-    }
+		char lastChar = bilskilt.trim().toUpperCase().charAt(bilskilt.length() - 1);
+
+		if (Character.isDigit(lastChar)) {
+			return Character.getNumericValue(lastChar) % TABLE_SIZE;
+		}
+
+		return -1;
+	}
+
+	public static int hash2(String bilskilt) {
+
+		int hash = -1;
+
+		hash = Math.abs(bilskilt.hashCode() % 10);
+
+		return hash;
+	}
+
+	// Linear probing
+	public void add(String bilskilt) {
+
+		int pos = hash(bilskilt);
+		int teller = pos;
+
+		while (table[pos] != null) {
+			pos = (pos + 1) % TABLE_SIZE; // Linear probing
+			if (pos == teller) {
+				System.out.println("Tabellen er full, kan ikke sette inn " + bilskilt);
+				return;
+			}
+		}
+		table[pos] = bilskilt;
+	}
+
+	public void add2(String bilskilt) {
+
+		int pos = Math.abs(hash2(bilskilt));
+		int teller = pos;
+
+		while (table[pos] != null) {
+			pos = (pos + 1) % storrelse; // Linear probing
+			if (pos == teller) {
+				System.out.println("Tabellen er full, kan ikke sette inn " + bilskilt);
+				return;
+			}
+		}
+		table[pos] = bilskilt;
+	}
+
+	public void skrivUt() {
+		for (int i = 0; i < TABLE_SIZE; i++) {
+
+			if (table[i] != null) {
+				System.out.println("Index " + i + ": " + table[i]);
+			} else {
+				System.out.println("Index " + i + ": " + "Null");
+			}
+		}
+	}
+	public void skrivUt2() {
+		for (int i = 0; i < storrelse; i++) {
+
+			if (table[i] != null) {
+				System.out.println("Index " + i + ": " + table[i] + " --> HashCode: " + Math.abs(table[i].hashCode())%10);
+			} else {
+				System.out.println("Index " + i + ": " + "Null");
+			}
+		}
+	}
+
 }
