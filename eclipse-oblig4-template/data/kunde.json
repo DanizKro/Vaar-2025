@@ -1,0 +1,512 @@
+{"knr" : 5002, "fornavn" : "Paal", "etternavn" : "Aass", "adresse" : "Lindemans gate79", "postnr" : "1711", "poststed" : "SARPSBORG"}
+{"knr" : 5007, "fornavn" : "Joakim", "etternavn" : "Laursen", "adresse" : "Thomas Heftyes gate 39", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5009, "fornavn" : "Laurits", "etternavn" : "Eckhoff", "adresse" : "Solheimgata 81", "postnr" : "0654", "poststed" : "OSLO"}
+{"knr" : 5011, "fornavn" : "Åshild", "etternavn" : "Sætran", "adresse" : "Erling Skjalgssons gate 56", "postnr" : "3750", "poststed" : "DRANGEDAL"}
+{"knr" : 5022, "fornavn" : "Torgrim", "etternavn" : "Østbø", "adresse" : "Hafrsfjordgata 11", "postnr" : "3925", "poststed" : "PORSGRUNN"}
+{"knr" : 5025, "fornavn" : "Malvin", "etternavn" : "Khan", "adresse" : "Halvdan Svartes gate 7", "postnr" : "1326", "poststed" : "LYSAKER"}
+{"knr" : 5028, "fornavn" : "Sidsel", "etternavn" : "Gulli", "adresse" : "Kristinelundveien 34", "postnr" : "4297", "poststed" : "SKUDENESHAVN"}
+{"knr" : 5039, "fornavn" : "Katrine", "etternavn" : "Eilertsen", "adresse" : "Ingar Nilsens vei 12C", "postnr" : "7003", "poststed" : "TRONDHEIM"}
+{"knr" : 5042, "fornavn" : "Skjalg", "etternavn" : "Tengesdal", "adresse" : "Nobels gate 17", "postnr" : "8310", "poststed" : "KABELVÅG"}
+{"knr" : 5043, "fornavn" : "Gunn Iren", "etternavn" : "Ånestad", "adresse" : "Ottar Birtings gate 9", "postnr" : "7200", "poststed" : "KYRKSÆTERØRA"}
+{"knr" : 5049, "fornavn" : "Khalid", "etternavn" : "Rue", "adresse" : "Observatorie Terrasse 1", "postnr" : "6401", "poststed" : "MOLDE"}
+{"knr" : 5071, "fornavn" : "Jann", "etternavn" : "Skjelvik", "adresse" : "Munkedamsveien 51A", "postnr" : "5570", "poststed" : "AKSDAL"}
+{"knr" : 5079, "fornavn" : "Ine", "etternavn" : "Kraft", "adresse" : "Thomles gate 8", "postnr" : "3340", "poststed" : "ÅMOT"}
+{"knr" : 5081, "fornavn" : "Valter", "etternavn" : "Grimsmo", "adresse" : "Lassons gate 32", "postnr" : "5802", "poststed" : "BERGEN"}
+{"knr" : 5082, "fornavn" : "Alexandra", "etternavn" : "Saleh", "adresse" : "Leiv Eirikssons gate 74", "postnr" : "8300", "poststed" : "SVOLVÆR"}
+{"knr" : 5087, "fornavn" : "Maj", "etternavn" : "Elton", "adresse" : "Bjørn Farmanns gate 119A", "postnr" : "8380", "poststed" : "RAMBERG"}
+{"knr" : 5091, "fornavn" : "Agnethe", "etternavn" : "Wessel", "adresse" : "Gardeveien 38", "postnr" : "8666", "poststed" : "MOSJØEN"}
+{"knr" : 5092, "fornavn" : "Erland", "etternavn" : "Trøan", "adresse" : "Gydas vei 55", "postnr" : "2201", "poststed" : "KONGSVINGER"}
+{"knr" : 5093, "fornavn" : "Morten", "etternavn" : "Lindland", "adresse" : "Harald Hårfagres gate 141", "postnr" : "3428", "poststed" : "GULLAUG"}
+{"knr" : 5102, "fornavn" : "Kaja", "etternavn" : "Høvik", "adresse" : "Hammerstads gate 3E", "postnr" : "5600", "poststed" : "NORHEIMSUND"}
+{"knr" : 5119, "fornavn" : "Thale", "etternavn" : "Evenrud", "adresse" : "Kirkeveien 5", "postnr" : "1201", "poststed" : "OSLO"}
+{"knr" : 5122, "fornavn" : "Connie", "etternavn" : "Volden", "adresse" : "Valkyriegata 19A", "postnr" : "1701", "poststed" : "SARPSBORG"}
+{"knr" : 5129, "fornavn" : "Arne", "etternavn" : "Reinertsen", "adresse" : "Valkyrieplassen", "postnr" : "0501", "poststed" : "OSLO"}
+{"knr" : 5138, "fornavn" : "Ranveig", "etternavn" : "Gjertsen", "adresse" : "Henrik Wergelands Allé 47", "postnr" : "0901", "poststed" : "OSLO"}
+{"knr" : 5139, "fornavn" : "Mariann", "etternavn" : "Enger", "adresse" : "Krebs gate 12", "postnr" : "3300", "poststed" : "HOKKSUND"}
+{"knr" : 5144, "fornavn" : "Asle", "etternavn" : "Hornnes", "adresse" : "Hegermanns gate 3", "postnr" : "0201", "poststed" : "OSLO"}
+{"knr" : 5162, "fornavn" : "Ole-Jørgen", "etternavn" : "Molteberg", "adresse" : "Hegermanns plass 4C", "postnr" : "3201", "poststed" : "SANDEFJORD"}
+{"knr" : 5172, "fornavn" : "Aasta", "etternavn" : "Garvik", "adresse" : "Kyrre Grepps gate 19", "postnr" : "8300", "poststed" : "SVOLVÆR"}
+{"knr" : 5188, "fornavn" : "Jorid", "etternavn" : "Marcussen", "adresse" : "Haarklous plass 23C", "postnr" : "9013", "poststed" : "TROMSØ"}
+{"knr" : 5201, "fornavn" : "Aleksandra", "etternavn" : "Vaksdal", "adresse" : "Edvard Griegs Allé 12", "postnr" : "0952", "poststed" : "OSLO"}
+{"knr" : 5208, "fornavn" : "Fatima", "etternavn" : "Hildre", "adresse" : "Nordkappgata 15", "postnr" : "3901", "poststed" : "PORSGRUNN"}
+{"knr" : 5209, "fornavn" : "Emilie", "etternavn" : "Fotland", "adresse" : "Sigurd Lies gate 19", "postnr" : "7200", "poststed" : "KYRKSÆTERØRA"}
+{"knr" : 5219, "fornavn" : "Ayse", "etternavn" : "Sellevold", "adresse" : "Lilleborggata 28", "postnr" : "8820", "poststed" : "DØNNA"}
+{"knr" : 5237, "fornavn" : "Magnhild", "etternavn" : "Helgestad", "adresse" : "Åsengata 6", "postnr" : "6201", "poststed" : "STRANDA"}
+{"knr" : 5238, "fornavn" : "Inger-Lise", "etternavn" : "Nerdal", "adresse" : "Erika Nissens gate 3", "postnr" : "2910", "poststed" : "AURDAL"}
+{"knr" : 5239, "fornavn" : "Mustafa", "etternavn" : "Falck", "adresse" : "Lammers' gate 8B", "postnr" : "6320", "poststed" : "ISFJORDEN"}
+{"knr" : 5250, "fornavn" : "Tormod", "etternavn" : "Furset", "adresse" : "Kyrre Grepps gate 81", "postnr" : "9321", "poststed" : "MOEN"}
+{"knr" : 5251, "fornavn" : "Maren", "etternavn" : "Stephansen", "adresse" : "Fjellhus Allé 129", "postnr" : "7730", "poststed" : "BEITSTAD"}
+{"knr" : 5256, "fornavn" : "Sol", "etternavn" : "Fauske", "adresse" : "Caspar Storms vei 21", "postnr" : "2880", "poststed" : "NORD-TORPA"}
+{"knr" : 5267, "fornavn" : "Birthe", "etternavn" : "Nydal", "adresse" : "Duggveien 30", "postnr" : "3359", "poststed" : "EGGEDAL"}
+{"knr" : 5310, "fornavn" : "Ole", "etternavn" : "Haugom", "adresse" : "Agmund Bolts vei 145", "postnr" : "9925", "poststed" : "SVANVIK"}
+{"knr" : 5316, "fornavn" : "Åsa", "etternavn" : "Folgerø", "adresse" : "Klosterheimveien 6C", "postnr" : "0330", "poststed" : "OSLO"}
+{"knr" : 5321, "fornavn" : "Sivert", "etternavn" : "Ose", "adresse" : "Harald Halvorsens vei 17", "postnr" : "0208", "poststed" : "OSLO"}
+{"knr" : 5322, "fornavn" : "Lisa", "etternavn" : "Fjeldstad", "adresse" : "Fyrstikkbakken 5D", "postnr" : "0201", "poststed" : "OSLO"}
+{"knr" : 5328, "fornavn" : "Anne-Britt", "etternavn" : "Sneve", "adresse" : "Johan Evjes vei 41", "postnr" : "0330", "poststed" : "OSLO"}
+{"knr" : 5353, "fornavn" : "Gjermund", "etternavn" : "Hansson", "adresse" : "Grinda 2", "postnr" : "4020", "poststed" : "STAVANGER"}
+{"knr" : 5354, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5355, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Aldersheimbakken 6", "postnr" : "3243", "poststed" : "KODAL"}
+{"knr" : 5356, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5357, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "5072", "poststed" : "BERGEN"}
+{"knr" : 5358, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5359, "fornavn" : "Klara", "etternavn" : "Brække", "adresse" : "Fanavegen 40", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5360, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5361, "fornavn" : "Klara", "etternavn" : "Brække", "adresse" : "Fanavegen 40", "postnr" : "4645", "poststed" : "NODELAND"}
+{"knr" : 5362, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5363, "fornavn" : "Wanja", "etternavn" : "Nordhaug", "adresse" : "Vestre Murallmenningen 14", "postnr" : "1605", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5364, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5365, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5366, "fornavn" : "Johny", "etternavn" : "Jonassen", "adresse" : "Nøttveitvegen 35", "postnr" : "1155", "poststed" : "OSLO"}
+{"knr" : 5367, "fornavn" : "Thore", "etternavn" : "Hauan", "adresse" : "Lindealléen 39", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5368, "fornavn" : "Sven", "etternavn" : "Dammen", "adresse" : "Apotekarvegen 43", "postnr" : "0801", "poststed" : "OSLO"}
+{"knr" : 5369, "fornavn" : "Jesper", "etternavn" : "Førre", "adresse" : "Jomfrustien 161", "postnr" : "5445", "poststed" : "BREMNES"}
+{"knr" : 5370, "fornavn" : "Maud", "etternavn" : "Mellingen", "adresse" : "Sætrefjellet 50", "postnr" : "0565", "poststed" : "OSLO"}
+{"knr" : 5371, "fornavn" : "Mohamed", "etternavn" : "Bremseth", "adresse" : "Engevikvegen 7", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5372, "fornavn" : "Tony", "etternavn" : "Lauritzen", "adresse" : "Skjenlien 1", "postnr" : "4803", "poststed" : "ARENDAL"}
+{"knr" : 5373, "fornavn" : "Lina", "etternavn" : "Buljo", "adresse" : "Finnemanns plass 56", "postnr" : "1255", "poststed" : "OSLO"}
+{"knr" : 5374, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5375, "fornavn" : "Oddbjørn", "etternavn" : "Brunstad", "adresse" : "Fagertunvegen 29", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5376, "fornavn" : "Chris", "etternavn" : "Fiksdal", "adresse" : "Helmers vei 25", "postnr" : "0877", "poststed" : "OSLO"}
+{"knr" : 5377, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5378, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 69", "postnr" : "3243", "poststed" : "KODAL"}
+{"knr" : 5379, "fornavn" : "Wanja", "etternavn" : "Nordhaug", "adresse" : "Vestre Murallmenningen 14", "postnr" : "2025", "poststed" : "FJERDINGBY"}
+{"knr" : 5380, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5381, "fornavn" : "Ingmar", "etternavn" : "Morken", "adresse" : "Thomasstien 41", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5382, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22A", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5383, "fornavn" : "Sigvart", "etternavn" : "Christophersen", "adresse" : "Fortunbakkane 23", "postnr" : "0901", "poststed" : "OSLO"}
+{"knr" : 5384, "fornavn" : "Kaare", "etternavn" : "Gloppen", "adresse" : "Kippersmauet 35", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5385, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "1389", "poststed" : "HEGGEDAL"}
+{"knr" : 5386, "fornavn" : "Mariann", "etternavn" : "Mathiassen", "adresse" : "Sveiarhaugen 26", "postnr" : "3800", "poststed" : "BØ I TELEMARK"}
+{"knr" : 5387, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5388, "fornavn" : "Hallstein", "etternavn" : "Håkonsen", "adresse" : "Nordre Gommershaugen 45", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5389, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5390, "fornavn" : "Stephanie", "etternavn" : "Eng", "adresse" : "Gullstølslien 12", "postnr" : "0032", "poststed" : "OSLO"}
+{"knr" : 5391, "fornavn" : "Gorm", "etternavn" : "Milde", "adresse" : "Søren van der Weldes veg 71", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5392, "fornavn" : "Agnes", "etternavn" : "Johannessen", "adresse" : "Nylandsveien 26", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5393, "fornavn" : "Tom-erik", "etternavn" : "Drange", "adresse" : "Fæsteråsen 67", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5394, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5395, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Jens Rolfsens gate 47", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5396, "fornavn" : "Mathilde", "etternavn" : "Hessen", "adresse" : "Midtunstien 54", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5397, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Bakkevegen 47", "postnr" : "5282", "poststed" : "LONEVÅG"}
+{"knr" : 5398, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "5845", "poststed" : "BERGEN"}
+{"knr" : 5399, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Balders veg 63", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5400, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22", "postnr" : "5202", "poststed" : "OS"}
+{"knr" : 5401, "fornavn" : "Jarand", "etternavn" : "Mydland", "adresse" : "Tordenskjolds gate 57", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5402, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5403, "fornavn" : "Abdirahman", "etternavn" : "Lindahl", "adresse" : "Solbakksvingen 27", "postnr" : "0602", "poststed" : "OSLO"}
+{"knr" : 5404, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Barliveien 29", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5405, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 69", "postnr" : "0270", "poststed" : "OSLO"}
+{"knr" : 5406, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5407, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Bendixens vei 47", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5408, "fornavn" : "Agnar", "etternavn" : "Engelsen", "adresse" : "Gårdsvegen 21", "postnr" : "5232", "poststed" : "PARADIS"}
+{"knr" : 5409, "fornavn" : "Tom-erik", "etternavn" : "Drange", "adresse" : "Fæsteråsen 67", "postnr" : "3199", "poststed" : "BORRE"}
+{"knr" : 5410, "fornavn" : "Maren", "etternavn" : "Martens", "adresse" : "Sukkerhusgaten 18D", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5411, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5412, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 26", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5413, "fornavn" : "Bjørnar", "etternavn" : "Holsen", "adresse" : "Nattlandsveien 43", "postnr" : "3209", "poststed" : "SANDEFJORD"}
+{"knr" : 5414, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5415, "fornavn" : "Sebastian", "etternavn" : "Ofstad", "adresse" : "Zander Kaaes gate 13", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5416, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5417, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5418, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "Bjørkåsen 22", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5419, "fornavn" : "Edny", "etternavn" : "Kvaal", "adresse" : "Sejersteds park 40", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5420, "fornavn" : "Christiane", "etternavn" : "Gjerdrum", "adresse" : "Kaptein Amlands vei 18", "postnr" : "3750", "poststed" : "DRANGEDAL"}
+{"knr" : 5421, "fornavn" : "Celine", "etternavn" : "Ramberg", "adresse" : "Øvregaten 4", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5422, "fornavn" : "Tony", "etternavn" : "Lauritzen", "adresse" : "Skjenlien 1", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5423, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5424, "fornavn" : "Nikolai", "etternavn" : "Knarvik", "adresse" : "Rognehaugen 41", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5425, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "4056", "poststed" : "TANANGER"}
+{"knr" : 5426, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5427, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 67", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5428, "fornavn" : "Per-arne", "etternavn" : "Guttormsen", "adresse" : "Krohnåsvegen 37", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5429, "fornavn" : "Mohamed", "etternavn" : "Bremseth", "adresse" : "Engevikvegen 7B", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5430, "fornavn" : "Steven", "etternavn" : "Oma", "adresse" : "Øvre Bjørkåsen 33", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5431, "fornavn" : "Eystein", "etternavn" : "Bakker", "adresse" : "Borgermester Platous gate 49", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5432, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "1158", "poststed" : "OSLO"}
+{"knr" : 5433, "fornavn" : "Thea", "etternavn" : "Høvik", "adresse" : "Nordhordlandsvegen 34", "postnr" : "5501", "poststed" : "HAUGESUND"}
+{"knr" : 5434, "fornavn" : "Rene", "etternavn" : "Bø", "adresse" : "Fjøsangerveien 71", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5435, "fornavn" : "Marvin", "etternavn" : "Kjær", "adresse" : "Professor Keysers gate 11", "postnr" : "4150", "poststed" : "RENNESØY"}
+{"knr" : 5436, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 60", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5437, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 29", "postnr" : "1389", "poststed" : "HEGGEDAL"}
+{"knr" : 5438, "fornavn" : "Christer", "etternavn" : "Fimreite", "adresse" : "Henrik Jægers vei 27", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5439, "fornavn" : "Målfrid", "etternavn" : "Drage", "adresse" : "Fæstergrenden 64", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5440, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5441, "fornavn" : "Sven", "etternavn" : "Dammen", "adresse" : "Frieda Fasmers vei 43", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5442, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5443, "fornavn" : "Ulf", "etternavn" : "Hegge", "adresse" : "Lyngberget 59", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5444, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5445, "fornavn" : "Søren", "etternavn" : "Hasle", "adresse" : "Lilandsvegen 29", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5446, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Blåbærvegen 6A", "postnr" : "3243", "poststed" : "KODAL"}
+{"knr" : 5447, "fornavn" : "Jacob", "etternavn" : "Bjerk", "adresse" : "Christian Michelsens gate 55", "postnr" : "0584", "poststed" : "OSLO"}
+{"knr" : 5448, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5449, "fornavn" : "Ailin", "etternavn" : "Fjellvang", "adresse" : "Hjortlandsvegen 52", "postnr" : "4993", "poststed" : "SUNDEBRU"}
+{"knr" : 5450, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Bugården 2", "postnr" : "1414", "poststed" : "TROLLÅSEN"}
+{"knr" : 5451, "fornavn" : "Mathilde", "etternavn" : "Hessen", "adresse" : "Midtunstien 54", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5452, "fornavn" : "Adam", "etternavn" : "Lone", "adresse" : "St. Olavs vei 1", "postnr" : "0587", "poststed" : "OSLO"}
+{"knr" : 5453, "fornavn" : "Oddvin", "etternavn" : "Kolnes", "adresse" : "Ross-smauet 21", "postnr" : "3691", "poststed" : "GRANSHERAD"}
+{"knr" : 5454, "fornavn" : "Jone", "etternavn" : "Myrhaug", "adresse" : "Trangesmauet 1", "postnr" : "1747", "poststed" : "SKJEBERG"}
+{"knr" : 5455, "fornavn" : "Celine", "etternavn" : "Ramberg", "adresse" : "Øvregaten 4", "postnr" : "2011", "poststed" : "STRØMMEN"}
+{"knr" : 5456, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "C. J. Hambros vei 6", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5457, "fornavn" : "Oddvin", "etternavn" : "Kolnes", "adresse" : "Ross-smauet 51", "postnr" : "5598", "poststed" : "FJÆRA"}
+{"knr" : 5458, "fornavn" : "Andres", "etternavn" : "Hjelm", "adresse" : "Morvikbotn 1", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5459, "fornavn" : "Jone", "etternavn" : "Myrhaug", "adresse" : "Trangesmauet 1", "postnr" : "5445", "poststed" : "BREMNES"}
+{"knr" : 5460, "fornavn" : "Thore", "etternavn" : "Hauan", "adresse" : "Lindealléen 39", "postnr" : "2302", "poststed" : "HAMAR"}
+{"knr" : 5461, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5462, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5463, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5464, "fornavn" : "Wanja", "etternavn" : "Nordhaug", "adresse" : "Vestre Murallmenningen 14", "postnr" : "4150", "poststed" : "RENNESØY"}
+{"knr" : 5466, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "4032", "poststed" : "STAVANGER"}
+{"knr" : 5467, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5468, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "3371", "poststed" : "VIKERSUND"}
+{"knr" : 5469, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "3471", "poststed" : "SLEMMESTAD"}
+{"knr" : 5470, "fornavn" : "Jone", "etternavn" : "Myrhaug", "adresse" : "Trangesmauet 1", "postnr" : "2011", "poststed" : "STRØMMEN"}
+{"knr" : 5471, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "4265", "poststed" : "HÅVIK"}
+{"knr" : 5472, "fornavn" : "Jørund", "etternavn" : "Gjelsten", "adresse" : "Kalihaugen 11", "postnr" : "5598", "poststed" : "FJÆRA"}
+{"knr" : 5473, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Dokkeboder 21", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5474, "fornavn" : "Joakim", "etternavn" : "Garnes", "adresse" : "Jonsterhaugskiftet 67", "postnr" : "2025", "poststed" : "FJERDINGBY"}
+{"knr" : 5475, "fornavn" : "Oddbjørn", "etternavn" : "Brunstad", "adresse" : "Fagertunvegen 29", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5476, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Dynevoll 2", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5477, "fornavn" : "Målfrid", "etternavn" : "Drage", "adresse" : "Fæstergrenden 64", "postnr" : "5903", "poststed" : "ISDALSTØ"}
+{"knr" : 5478, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5479, "fornavn" : "Ada", "etternavn" : "Jørstad", "adresse" : "Oldernesveien 50", "postnr" : "0455", "poststed" : "OSLO"}
+{"knr" : 5480, "fornavn" : "Tatiana", "etternavn" : "Høie", "adresse" : "Nordeidstølen 28", "postnr" : "0587", "poststed" : "OSLO"}
+{"knr" : 5481, "fornavn" : "Stephanie", "etternavn" : "Eng", "adresse" : "Gullstølslien 12", "postnr" : "4896", "poststed" : "GRIMSTAD"}
+{"knr" : 5482, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5483, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Erdalsvegen 6F", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5484, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "5845", "poststed" : "BERGEN"}
+{"knr" : 5485, "fornavn" : "Torje", "etternavn" : "Ottesen", "adresse" : "Øvre Titlestad 13", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5486, "fornavn" : "Wanja", "etternavn" : "Nordhaug", "adresse" : "Vestre Murallmenningen 14", "postnr" : "1605", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5488, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5489, "fornavn" : "Emilie", "etternavn" : "Grude", "adresse" : "Klostersmauet 74", "postnr" : "2825", "poststed" : "GJØVIK"}
+{"knr" : 5490, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Elgvegenn 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5491, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5492, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Fabrikkgaten 56", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5493, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "3683", "poststed" : "NOTODDEN"}
+{"knr" : 5494, "fornavn" : "Emilie", "etternavn" : "Grude", "adresse" : "Klostersmauet 74", "postnr" : "2825", "poststed" : "GJØVIK"}
+{"knr" : 5495, "fornavn" : "Agnar", "etternavn" : "Engelsen", "adresse" : "Gårdsvegen 21", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5496, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5497, "fornavn" : "Stephen", "etternavn" : "Olsvik", "adresse" : "Øvre alle 31", "postnr" : "3471", "poststed" : "SLEMMESTAD"}
+{"knr" : 5498, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 46", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5499, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "JensRolfsens gate 47", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5500, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 4A", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5501, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5502, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "4150", "poststed" : "RENNESØY"}
+{"knr" : 5503, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5504, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5505, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5506, "fornavn" : "Fatma", "etternavn" : "Grønnevik", "adresse" : "Kollåsen 74", "postnr" : "0579", "poststed" : "OSLO"}
+{"knr" : 5507, "fornavn" : "Jarand", "etternavn" : "Mydland", "adresse" : "Tordenskjolds gate 57", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5508, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "0760", "poststed" : "OSLO"}
+{"knr" : 5509, "fornavn" : "Torje", "etternavn" : "Ottesen", "adresse" : "Fiolveien 1", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5510, "fornavn" : "Ingmar", "etternavn" : "Bhatti", "adresse" : "Bønesheien 45", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5511, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "0270", "poststed" : "OSLO"}
+{"knr" : 5512, "fornavn" : "Ali", "etternavn" : "Lunden", "adresse" : "Starefoss-svingen 15", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5513, "fornavn" : "Målfrid", "etternavn" : "Drage", "adresse" : "Fæstergrenden 64", "postnr" : "1767", "poststed" : "HALDEN"}
+{"knr" : 5514, "fornavn" : "Ingmar", "etternavn" : "Bhatti", "adresse" : "Bønesheien 45", "postnr" : "2015", "poststed" : "LEIRSUND"}
+{"knr" : 5515, "fornavn" : "Mathis", "etternavn" : "Bratvold", "adresse" : "Elvegaten 69", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5516, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5517, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "6398", "poststed" : "TOMREFJORD"}
+{"knr" : 5518, "fornavn" : "Ali", "etternavn" : "Lunden", "adresse" : "Starefoss-svingen 15", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5519, "fornavn" : "Asgeir", "etternavn" : "Alvær", "adresse" : "Balders veg 23", "postnr" : "5260", "poststed" : "INDRE ARNA"}
+{"knr" : 5520, "fornavn" : "Mathilde", "etternavn" : "Hessen", "adresse" : "Midtunstien 54", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5521, "fornavn" : "Madelen", "etternavn" : "Mahmood", "adresse" : "Straumeveien 2", "postnr" : "4398", "poststed" : "SANDNES"}
+{"knr" : 5522, "fornavn" : "Odvar", "etternavn" : "Bryhn", "adresse" : "Fanafjellsvegen 35", "postnr" : "4523", "poststed" : "LINDESNES"}
+{"knr" : 5523, "fornavn" : "Sven", "etternavn" : "Dammen", "adresse" : "Fosswinckels gate 43", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5524, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 7", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5525, "fornavn" : "Mimmi", "etternavn" : "Dirdal", "adresse" : "Furubotn 56", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5526, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5527, "fornavn" : "Alex", "etternavn" : "Akselsen", "adresse" : "Arnoldus Reimers' gate 24", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5528, "fornavn" : "Ingmar", "etternavn" : "Morken", "adresse" : "Thomasstien 41C", "postnr" : "1719", "poststed" : "GREÅKER"}
+{"knr" : 5529, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5530, "fornavn" : "Amina", "etternavn" : "Alexandersen", "adresse" : "Asylplassen 2", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5531, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Glasskaret 47", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5532, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Gjøas vei 87", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5533, "fornavn" : "Ian", "etternavn" : "Berre", "adresse" : "Bøkestien 39", "postnr" : "0602", "poststed" : "OSLO"}
+{"knr" : 5534, "fornavn" : "Abdi", "etternavn" : "Ekeberg", "adresse" : "Grendatunvegen 53", "postnr" : "0584", "poststed" : "OSLO"}
+{"knr" : 5535, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5536, "fornavn" : "Adam", "etternavn" : "Hestad", "adresse" : "Midtunvegen 55", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5537, "fornavn" : "Søren", "etternavn" : "Hasle", "adresse" : "Lilandsvegen 29", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5538, "fornavn" : "Torje", "etternavn" : "Ottesen", "adresse" : "Øvre titlestad 1", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5539, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5540, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5541, "fornavn" : "Adrian", "etternavn" : "Elvestad", "adresse" : "Grøvlesvingen 5", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5542, "fornavn" : "Maren", "etternavn" : "Martens", "adresse" : "Sukkerhusgaten 18", "postnr" : "2847", "poststed" : "KOLBU"}
+{"knr" : 5543, "fornavn" : "Ronnie", "etternavn" : "Hall", "adresse" : "Kvitura 59", "postnr" : "3151", "poststed" : "TOLVSRØD"}
+{"knr" : 5544, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5545, "fornavn" : "May-Britt", "etternavn" : "Hestnes", "adresse" : "Minde allé 58", "postnr" : "1581", "poststed" : "RYGGE"}
+{"knr" : 5546, "fornavn" : "Odvar", "etternavn" : "Kolstad", "adresse" : "Rotvollen 53", "postnr" : "5614", "poststed" : "ÅLVIK"}
+{"knr" : 5547, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "4322", "poststed" : "SANDNES"}
+{"knr" : 5548, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5549, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "2302", "poststed" : "HAMAR"}
+{"knr" : 5550, "fornavn" : "Jakob", "etternavn" : "Mundal", "adresse" : "Tollbugata 53", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5551, "fornavn" : "Edny", "etternavn" : "Kvaal", "adresse" : "Sejersteds park 40", "postnr" : "4596", "poststed" : "EIKEN"}
+{"knr" : 5552, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Gåsestien 134", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5553, "fornavn" : "Kristen", "etternavn" : "Gjøsund", "adresse" : "Kiplelien 31", "postnr" : "5260", "poststed" : "INDRE ARNA"}
+{"knr" : 5554, "fornavn" : "Noah", "etternavn" : "Nordlund", "adresse" : "Vestre solheia 21", "postnr" : "4808", "poststed" : "ARENDAL"}
+{"knr" : 5555, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "5282", "poststed" : "LONEVÅG"}
+{"knr" : 5556, "fornavn" : "Søren", "etternavn" : "Hasle", "adresse" : "Lilandsvegen 29", "postnr" : "2206", "poststed" : "KONGSVINGER"}
+{"knr" : 5557, "fornavn" : "Ingmar", "etternavn" : "Morken", "adresse" : "Thomasstien 41", "postnr" : "1719", "poststed" : "GREÅKER"}
+{"knr" : 5558, "fornavn" : "Venke", "etternavn" : "Nordang", "adresse" : "Verftstrappen 2", "postnr" : "3216", "poststed" : "SANDEFJORD"}
+{"knr" : 5559, "fornavn" : "Mimmi", "etternavn" : "Dirdal", "adresse" : "Furubotn 56", "postnr" : "2825", "poststed" : "GJØVIK"}
+{"knr" : 5560, "fornavn" : "Marlen", "etternavn" : "Hepsø", "adresse" : "Merkurvegen 42", "postnr" : "4276", "poststed" : "VEAVÅGEN"}
+{"knr" : 5561, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5562, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "6212", "poststed" : "LIABYGDA"}
+{"knr" : 5563, "fornavn" : "Svenn", "etternavn" : "Langen", "adresse" : "Sjømarkvegen 63", "postnr" : "3800", "poststed" : "BØ I TELEMARK"}
+{"knr" : 5564, "fornavn" : "Agathe", "etternavn" : "Johnstad", "adresse" : "Nøttveitlia 34", "postnr" : "5232", "poststed" : "PARADIS"}
+{"knr" : 5565, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5566, "fornavn" : "Ingve", "etternavn" : "Moseng", "adresse" : "Tipphaugen 45", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5567, "fornavn" : "Alex", "etternavn" : "Lunde", "adresse" : "Starefossbakken 21", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5568, "fornavn" : "Kaj", "etternavn" : "Mælen", "adresse" : "Trosteveien 19", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5569, "fornavn" : "Ali", "etternavn" : "Lunden", "adresse" : "Starefoss-svingen 15", "postnr" : "0565", "poststed" : "OSLO"}
+{"knr" : 5570, "fornavn" : "Stephanie", "etternavn" : "Eng", "adresse" : "Gullstølslien 12", "postnr" : "4398", "poststed" : "SANDNES"}
+{"knr" : 5571, "fornavn" : "Celine", "etternavn" : "Kruse", "adresse" : "Sanddalsvegen 10D", "postnr" : "1617", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5572, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "3221", "poststed" : "SANDEFJORD"}
+{"knr" : 5573, "fornavn" : "Paul", "etternavn" : "Gustavson", "adresse" : "Krohnengssmauet 35", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5574, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64B", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5575, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Liheia 25", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5576, "fornavn" : "Paul", "etternavn" : "Gustavson", "adresse" : "Krohnengssmauet 35", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5577, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5578, "fornavn" : "Laura", "etternavn" : "Løset", "adresse" : "Storetveitvegen 52", "postnr" : "2851", "poststed" : "LENA"}
+{"knr" : 5579, "fornavn" : "Anne-Kari", "etternavn" : "Kjelstad", "adresse" : "Professor Arentz' gate 8", "postnr" : "2020", "poststed" : "SKEDSMOKORSET"}
+{"knr" : 5580, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5581, "fornavn" : "Mohamed", "etternavn" : "Bremseth", "adresse" : "Engevikvegen 7", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5582, "fornavn" : "Kristen", "etternavn" : "Gjøsund", "adresse" : "Kiplelien 31", "postnr" : "5260", "poststed" : "INDRE ARNA"}
+{"knr" : 5583, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5584, "fornavn" : "Simon", "etternavn" : "Claussen", "adresse" : "Forvasshaugen 25", "postnr" : "2334", "poststed" : "ROMEDAL"}
+{"knr" : 5585, "fornavn" : "Amalie", "etternavn" : "Albrigtsen", "adresse" : "Askøyveien 27", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5586, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "5202", "poststed" : "OS"}
+{"knr" : 5587, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Jordbærstedet", "postnr" : "5202", "poststed" : "OS"}
+{"knr" : 5588, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "1539", "poststed" : "MOSS"}
+{"knr" : 5589, "fornavn" : "Søren", "etternavn" : "Opedal", "adresse" : "Øvre gyldenprisveien 45", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5590, "fornavn" : "Thore", "etternavn" : "Hauan", "adresse" : "Lindealléen 39", "postnr" : "1605", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5591, "fornavn" : "Idar", "etternavn" : "Frøyland", "adresse" : "Janahaugen 37", "postnr" : "3199", "poststed" : "BORRE"}
+{"knr" : 5592, "fornavn" : "Jørund", "etternavn" : "Gjelsten", "adresse" : "Kalihaugen 11", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5593, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "4993", "poststed" : "SUNDEBRU"}
+{"knr" : 5594, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5595, "fornavn" : "Bjørnar", "etternavn" : "Holsen", "adresse" : "Nattlandsveien 43", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5596, "fornavn" : "Mikkel", "etternavn" : "Kleiveland", "adresse" : "Ravns gate 23", "postnr" : "1284", "poststed" : "OSLO"}
+{"knr" : 5597, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5598, "fornavn" : "Ian", "etternavn" : "Berre", "adresse" : "Bøkestien 39", "postnr" : "5630", "poststed" : "STRANDEBARM"}
+{"knr" : 5599, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "3243", "poststed" : "KODAL"}
+{"knr" : 5600, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5601, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5602, "fornavn" : "Ronnie", "etternavn" : "Hall", "adresse" : "Kvitura 59", "postnr" : "1747", "poststed" : "SKJEBERG"}
+{"knr" : 5603, "fornavn" : "Ingmar", "etternavn" : "Bhatti", "adresse" : "Bønesheien 45A", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5604, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22", "postnr" : "0452", "poststed" : "OSLO"}
+{"knr" : 5605, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22", "postnr" : "2007", "poststed" : "KJELLER"}
+{"knr" : 5606, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5607, "fornavn" : "Amina", "etternavn" : "Alexandersen", "adresse" : "Kipo", "postnr" : "5141", "poststed" : "FYLLINGSDALEN"}
+{"knr" : 5608, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipsgata 4", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5609, "fornavn" : "Sebastian", "etternavn" : "Kvia", "adresse" : "Seimshovden 35", "postnr" : "3199", "poststed" : "BORRE"}
+{"knr" : 5610, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5611, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "1605", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5612, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0971", "poststed" : "OSLO"}
+{"knr" : 5613, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Koengen 47", "postnr" : "5457", "poststed" : "HØYLANDSBYGD"}
+{"knr" : 5614, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5615, "fornavn" : "Jofrid", "etternavn" : "Lorentzen", "adresse" : "Stabburvegen 4", "postnr" : "2015", "poststed" : "LEIRSUND"}
+{"knr" : 5616, "fornavn" : "Adam", "etternavn" : "Hestad", "adresse" : "Midtunvegen 55", "postnr" : "0579", "poststed" : "OSLO"}
+{"knr" : 5618, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5619, "fornavn" : "Nikolai", "etternavn" : "Brudvik", "adresse" : "Fagerbakkvegen 23E", "postnr" : "3750", "poststed" : "DRANGEDAL"}
+{"knr" : 5620, "fornavn" : "Ørjan", "etternavn" : "Lilleberg", "adresse" : "Slåtthauglia 9", "postnr" : "1401", "poststed" : "SKI"}
+{"knr" : 5621, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 99", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5622, "fornavn" : "Heine", "etternavn" : "Ibrahim", "adresse" : "Nordre skogveien 57", "postnr" : "6398", "poststed" : "TOMREFJORD"}
+{"knr" : 5623, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 101", "postnr" : "2206", "poststed" : "KONGSVINGER"}
+{"knr" : 5624, "fornavn" : "Ronnie", "etternavn" : "Hall", "adresse" : "Kvitura 59", "postnr" : "0452", "poststed" : "OSLO"}
+{"knr" : 5625, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5626, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5627, "fornavn" : "Gitte", "etternavn" : "Grøstad", "adresse" : "Kong oscars gate 8", "postnr" : "4993", "poststed" : "SUNDEBRU"}
+{"knr" : 5628, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "0452", "poststed" : "OSLO"}
+{"knr" : 5629, "fornavn" : "Markus", "etternavn" : "Bratlie", "adresse" : "Elsters gate 65", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5630, "fornavn" : "Thea", "etternavn" : "Høvik", "adresse" : "Nordhordlandsvegen 34", "postnr" : "1215", "poststed" : "OSLO"}
+{"knr" : 5631, "fornavn" : "Noah", "etternavn" : "Grønvik", "adresse" : "Kolåshøyen 5", "postnr" : "5614", "poststed" : "ÅLVIK"}
+{"knr" : 5632, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5633, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "1158", "poststed" : "OSLO"}
+{"knr" : 5634, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5635, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5636, "fornavn" : "Hildegunn", "etternavn" : "Liland", "adresse" : "Slottsgaten 8", "postnr" : "5072", "poststed" : "BERGEN"}
+{"knr" : 5637, "fornavn" : "Mathilde", "etternavn" : "Hessen", "adresse" : "Midtunstien 54", "postnr" : "5202", "poststed" : "OS"}
+{"knr" : 5638, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5639, "fornavn" : "Celine", "etternavn" : "Ramberg", "adresse" : "Øvregaten 4B", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5640, "fornavn" : "May-britt", "etternavn" : "Hestnes", "adresse" : "Minde allé 58", "postnr" : "3893", "poststed" : "VINJESVINGEN"}
+{"knr" : 5641, "fornavn" : "Mimmi", "etternavn" : "Dirdal", "adresse" : "Furubotn 56", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5642, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Krabbedalen 2", "postnr" : "1610", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5643, "fornavn" : "Ian", "etternavn" : "Berre", "adresse" : "Bøkestien 39", "postnr" : "3965", "poststed" : "HERRE"}
+{"knr" : 5644, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5645, "fornavn" : "Ali", "etternavn" : "Lunden", "adresse" : "Starefoss-svingen 15", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5646, "fornavn" : "Kaj", "etternavn" : "Mælen", "adresse" : "Trosteveien 13", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5647, "fornavn" : "Målfrid", "etternavn" : "Drage", "adresse" : "Fæstergrenden 64", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5648, "fornavn" : "Mathilde", "etternavn" : "Hessen", "adresse" : "Midtunstien 54", "postnr" : "1605", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5649, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "6013", "poststed" : "ÅLESUND"}
+{"knr" : 5650, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5651, "fornavn" : "Nicholas", "etternavn" : "Broch", "adresse" : "Ervikveien 15", "postnr" : "3576", "poststed" : "HOL"}
+{"knr" : 5652, "fornavn" : "Noah", "etternavn" : "Grønvik", "adresse" : "Kolåshøyen 5A", "postnr" : "4715", "poststed" : "ØVREBØ"}
+{"knr" : 5653, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5654, "fornavn" : "Johny", "etternavn" : "Jonassen", "adresse" : "Nøttveitvegen 35", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5655, "fornavn" : "Anders", "etternavn" : "Jansen", "adresse" : "Forvasshaugen 25", "postnr" : "1536", "poststed" : "MOSS"}
+{"knr" : 5656, "fornavn" : "Alex", "etternavn" : "Lunde", "adresse" : "Starefossbakken 13", "postnr" : "1064", "poststed" : "OSLO"}
+{"knr" : 5657, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0452", "poststed" : "OSLO"}
+{"knr" : 5658, "fornavn" : "Johny", "etternavn" : "Jonassen", "adresse" : "Nøttveitvegen 35", "postnr" : "5614", "poststed" : "ÅLVIK"}
+{"knr" : 5659, "fornavn" : "Thore", "etternavn" : "Hauan", "adresse" : "Lindealléen 39", "postnr" : "2851", "poststed" : "LENA"}
+{"knr" : 5660, "fornavn" : "Joakim", "etternavn" : "Garnes", "adresse" : "Jonsterhaugskiftet 67", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5661, "fornavn" : "Kaj", "etternavn" : "Mælen", "adresse" : "Trosteveien 13", "postnr" : "3676", "poststed" : "NOTODDEN"}
+{"knr" : 5662, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "4671", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5663, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 72", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5664, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Lokes veg 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5665, "fornavn" : "Hallstein", "etternavn" : "Håkonsen", "adresse" : "Londalen 45", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5666, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "5445", "poststed" : "BREMNES"}
+{"knr" : 5667, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Lyderhorn 6C", "postnr" : "0445", "poststed" : "OSLO"}
+{"knr" : 5668, "fornavn" : "Ulla", "etternavn" : "Iden", "adresse" : "Nordre Skuteviksveien 58", "postnr" : "4150", "poststed" : "RENNESØY"}
+{"knr" : 5669, "fornavn" : "Søren", "etternavn" : "Opedal", "adresse" : "Øvre Gyldenprisveien 45", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5670, "fornavn" : "Søren", "etternavn" : "Devik", "adresse" : "Lyngberget", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5671, "fornavn" : "Mikkel", "etternavn" : "Nordal", "adresse" : "Verftssmauet 1", "postnr" : "4523", "poststed" : "LINDESNES"}
+{"knr" : 5672, "fornavn" : "Carl", "etternavn" : "Ferstad", "adresse" : "Helldalslia 19", "postnr" : "5501", "poststed" : "HAUGESUND"}
+{"knr" : 5673, "fornavn" : "Tony", "etternavn" : "Lauritzen", "adresse" : "Skjenlien 1", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5674, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Midtunlia", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5675, "fornavn" : "Amina", "etternavn" : "Alexandersen", "adresse" : "Neptuns vei 101", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5676, "fornavn" : "Gitte", "etternavn" : "Grøstad", "adresse" : "Kong Oscars gate 8", "postnr" : "4322", "poststed" : "SANDNES"}
+{"knr" : 5677, "fornavn" : "Mohamed", "etternavn" : "Bremseth", "adresse" : "Engevikvegen 7", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5678, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5679, "fornavn" : "Eystein", "etternavn" : "Huynh", "adresse" : "Nils Hertzbergs gate 9", "postnr" : "3151", "poststed" : "TOLVSRØD"}
+{"knr" : 5680, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "0445", "poststed" : "OSLO"}
+{"knr" : 5681, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5682, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5683, "fornavn" : "Mariam", "etternavn" : "Mathiassen", "adresse" : "Sveiarhaugen 26", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5684, "fornavn" : "Mimmi", "etternavn" : "Dirdal", "adresse" : "Furubotn 56", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5685, "fornavn" : "Tobias", "etternavn" : "Haugerud", "adresse" : "Litleholten 45A", "postnr" : "1535", "poststed" : "MOSS"}
+{"knr" : 5686, "fornavn" : "Oddlaug", "etternavn" : "Hognestad", "adresse" : "Myrdalshovden 20", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5687, "fornavn" : "Bengt", "etternavn" : "Hollund", "adresse" : "Mølleveien 31", "postnr" : "0801", "poststed" : "OSLO"}
+{"knr" : 5688, "fornavn" : "Mohamed", "etternavn" : "Bremseth", "adresse" : "Engevikvegen 7", "postnr" : "5258", "poststed" : "BLOMSTERDALEN"}
+{"knr" : 5689, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Dokkeboder 2", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5690, "fornavn" : "Mikkel", "etternavn" : "Kleiveland", "adresse" : "Ravns gate 23", "postnr" : "2847", "poststed" : "KOLBU"}
+{"knr" : 5691, "fornavn" : "Karla", "etternavn" : "Hauglid", "adresse" : "Loddefjordveien 48", "postnr" : "6008", "poststed" : "ÅLESUND"}
+{"knr" : 5692, "fornavn" : "Joakim", "etternavn" : "Bjørgen", "adresse" : "Danckert Krohns gate 71", "postnr" : "5010", "poststed" : "BERGEN"}
+{"knr" : 5693, "fornavn" : "Olve", "etternavn" : "Nornes", "adresse" : "Vinjes gate 41", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5694, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5695, "fornavn" : "Asgeir", "etternavn" : "Hoftun", "adresse" : "Myravegen 19", "postnr" : "3285", "poststed" : "LARVIK"}
+{"knr" : 5696, "fornavn" : "Brage", "etternavn" : "Arntsen", "adresse" : "Bernhard Meyers vei 24", "postnr" : "0250", "poststed" : "OSLO"}
+{"knr" : 5698, "fornavn" : "Kaare", "etternavn" : "Gloppen", "adresse" : "Kippersmauet 35", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5699, "fornavn" : "Trine-lise", "etternavn" : "Nilssen", "adresse" : "Vaskerelven 64", "postnr" : "3484", "poststed" : "HOLMSBU"}
+{"knr" : 5700, "fornavn" : "Abdullahi", "etternavn" : "Hellem", "adresse" : "Margaretastredet 21", "postnr" : "2074", "poststed" : "EIDSVOLL VERK"}
+{"knr" : 5701, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 69", "postnr" : "3606", "poststed" : "KONGSBERG"}
+{"knr" : 5702, "fornavn" : "Benedicte", "etternavn" : "Furulund", "adresse" : "Joachim Frieles gate 50", "postnr" : "2015", "poststed" : "LEIRSUND"}
+{"knr" : 5703, "fornavn" : "Kaj", "etternavn" : "Mælen", "adresse" : "Trosteveien 13", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5704, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5705, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Oldernesveien 2A", "postnr" : "2851", "poststed" : "LENA"}
+{"knr" : 5706, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "1730", "poststed" : "ISE"}
+{"knr" : 5707, "fornavn" : "Tom-erik", "etternavn" : "Drange", "adresse" : "Fæsteråsen 67", "postnr" : "0406", "poststed" : "OSLO"}
+{"knr" : 5708, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5709, "fornavn" : "Hallstein", "etternavn" : "Håkonsen", "adresse" : "Nordre Gommershaugen 45", "postnr" : "4696", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5710, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Persenbakken 2", "postnr" : "3199", "poststed" : "BORRE"}
+{"knr" : 5711, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Pinnelien 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5712, "fornavn" : "Mehmet", "etternavn" : "Nome", "adresse" : "Venåsen 71", "postnr" : "3676", "poststed" : "NOTODDEN"}
+{"knr" : 5713, "fornavn" : "Emilie", "etternavn" : "Grude", "adresse" : "Klostersmauet 74", "postnr" : "4645", "poststed" : "NODELAND"}
+{"knr" : 5714, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "3965", "poststed" : "HERRE"}
+{"knr" : 5715, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5716, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67", "postnr" : "4265", "poststed" : "HÅVIK"}
+{"knr" : 5717, "fornavn" : "Eystein", "etternavn" : "Huynh", "adresse" : "Nils Hertzbergs gate 9", "postnr" : "0214", "poststed" : "OSLO"}
+{"knr" : 5718, "fornavn" : "Ulla", "etternavn" : "Iden", "adresse" : "Nordre Skuteviksveien 58", "postnr" : "5401", "poststed" : "STORD"}
+{"knr" : 5719, "fornavn" : "Stephanie", "etternavn" : "Eng", "adresse" : "Gullstølslien 12", "postnr" : "4671", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5720, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Jens Rolfsens gate 47", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5721, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5722, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36B", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5723, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5724, "fornavn" : "Idar", "etternavn" : "Frøyland", "adresse" : "Janahaugen 37", "postnr" : "6062", "poststed" : "BRANDAL"}
+{"knr" : 5725, "fornavn" : "Aina", "etternavn" : "Nygren", "adresse" : "Von der Ohes vei 50", "postnr" : "0032", "poststed" : "OSLO"}
+{"knr" : 5726, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5727, "fornavn" : "Wanja", "etternavn" : "Nordhaug", "adresse" : "Vestre Murallmenningen 14", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5728, "fornavn" : "Agnar", "etternavn" : "Engelsen", "adresse" : "Gårdsvegen 21", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5729, "fornavn" : "Frithjof", "etternavn" : "Bastiansen", "adresse" : "Brattlandsvegen 61", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5730, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5731, "fornavn" : "Dagny", "etternavn" : "Kvamme", "adresse" : "Sandviksleitet 24", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5732, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5734, "fornavn" : "Amina", "etternavn" : "Alexandersen", "adresse" : "Plytten", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5735, "fornavn" : "Ada", "etternavn" : "Fiske", "adresse" : "Hesthaugvegen 36", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5736, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 8", "postnr" : "4174", "poststed" : "SJERNARØY"}
+{"knr" : 5737, "fornavn" : "Sebastian", "etternavn" : "Ofstad", "adresse" : "Zander Kaaes gate 13", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5738, "fornavn" : "Marvin", "etternavn" : "Brattli", "adresse" : "Elvebakken 67F", "postnr" : "3471", "poststed" : "SLEMMESTAD"}
+{"knr" : 5739, "fornavn" : "Svenn", "etternavn" : "Langen", "adresse" : "Sjømarkvegen 63", "postnr" : "1610", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5740, "fornavn" : "Ørjan", "etternavn" : "Helberg", "adresse" : "Løtveitveien 9", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5741, "fornavn" : "Eigil", "etternavn" : "Fjelde", "adresse" : "Hillerenveien 43", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5742, "fornavn" : "Steven", "etternavn" : "Oma", "adresse" : "Øvre bjørkåsen 33", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5743, "fornavn" : "Idar", "etternavn" : "Mongstad", "adresse" : "Tertnesgrenden 37", "postnr" : "3209", "poststed" : "SANDEFJORD"}
+{"knr" : 5744, "fornavn" : "Mehmet", "etternavn" : "Nome", "adresse" : "Venåsen 71", "postnr" : "2223", "poststed" : "GALTERUD"}
+{"knr" : 5745, "fornavn" : "Noah", "etternavn" : "Grønvik", "adresse" : "Kolåshøyen 5", "postnr" : "4586", "poststed" : "KORSHAMN"}
+{"knr" : 5746, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 1", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5747, "fornavn" : "Adrian", "etternavn" : "Elvestad", "adresse" : "Grøvlesvingen 5", "postnr" : "5035", "poststed" : "BERGEN"}
+{"knr" : 5748, "fornavn" : "Sven", "etternavn" : "Dammen", "adresse" : "Frieda Fasmers vei 43", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5749, "fornavn" : "Paul", "etternavn" : "Gustavson", "adresse" : "Krohnengssmauet 35", "postnr" : "3507", "poststed" : "HØNEFOSS"}
+{"knr" : 5750, "fornavn" : "Thea", "etternavn" : "Høvik", "adresse" : "Nordhordlandsvegen 34", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5751, "fornavn" : "Carsten", "etternavn" : "Askildsen", "adresse" : "Bjørgebrekken 9", "postnr" : "4322", "poststed" : "SANDNES"}
+{"knr" : 5752, "fornavn" : "Bengt", "etternavn" : "Hollund", "adresse" : "Mølleveien 31", "postnr" : "4688", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5753, "fornavn" : "Villy", "etternavn" : "Lian", "adresse" : "Skytterveien 24", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5754, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Jens Rolfsens gate 47", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5755, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Nordilia", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5756, "fornavn" : "Susanne", "etternavn" : "Natland", "adresse" : "Tverrgaten 24F", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5757, "fornavn" : "Markus", "etternavn" : "Bratlie", "adresse" : "Elsters gate 65", "postnr" : "5445", "poststed" : "BREMNES"}
+{"knr" : 5758, "fornavn" : "Mohammed", "etternavn" : "Nordby", "adresse" : "Vestgårdvegen 5", "postnr" : "1255", "poststed" : "OSLO"}
+{"knr" : 5759, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5760, "fornavn" : "David", "etternavn" : "Astrup", "adresse" : "Bjørndalsbrotet 21", "postnr" : "2607", "poststed" : "VINGROM"}
+{"knr" : 5761, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Reinane", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5762, "fornavn" : "Oddbjørn", "etternavn" : "Brunstad", "adresse" : "Fagertunvegen 29", "postnr" : "1763", "poststed" : "HALDEN"}
+{"knr" : 5763, "fornavn" : "Hilmar", "etternavn" : "Bergstrøm", "adresse" : "Bursflata 31", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5764, "fornavn" : "Ørjan", "etternavn" : "Helberg", "adresse" : "Løtveitveien 9", "postnr" : "0255", "poststed" : "OSLO"}
+{"knr" : 5765, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "1610", "poststed" : "FREDRIKSTAD"}
+{"knr" : 5766, "fornavn" : "Ole-jørgen", "etternavn" : "Kongshaug", "adresse" : "Ruskeneshaugen 57", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5767, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Klarhei 4", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5768, "fornavn" : "Bjørnar", "etternavn" : "Holsen", "adresse" : "Nattlandsveien 43", "postnr" : "3885", "poststed" : "FYRESDAL"}
+{"knr" : 5769, "fornavn" : "Emil", "etternavn" : "Fjellestad", "adresse" : "Hjellestadvegen 49", "postnr" : "4645", "poststed" : "NODELAND"}
+{"knr" : 5770, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "JensRolfsens gate 47", "postnr" : "3209", "poststed" : "SANDEFJORD"}
+{"knr" : 5771, "fornavn" : "Eystein", "etternavn" : "Huynh", "adresse" : "Nils Hertzbergs gate 9", "postnr" : "0602", "poststed" : "OSLO"}
+{"knr" : 5772, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "3044", "poststed" : "DRAMMEN"}
+{"knr" : 5773, "fornavn" : "Hallstein", "etternavn" : "Håkonsen", "adresse" : "Råtun", "postnr" : "4696", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5774, "fornavn" : "Ottar", "etternavn" : "Bue", "adresse" : "Feråsvegen 51E", "postnr" : "3216", "poststed" : "SANDEFJORD"}
+{"knr" : 5775, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5776, "fornavn" : "Fanny", "etternavn" : "Betten", "adresse" : "Bønesberget 44", "postnr" : "3126", "poststed" : "TØNSBERG"}
+{"knr" : 5777, "fornavn" : "Mikkel", "etternavn" : "Kleiveland", "adresse" : "Ravns gate 23", "postnr" : "2847", "poststed" : "KOLBU"}
+{"knr" : 5778, "fornavn" : "Flemming", "etternavn" : "Mellum", "adresse" : "Sætrevegen 51", "postnr" : "0760", "poststed" : "OSLO"}
+{"knr" : 5779, "fornavn" : "Emilie", "etternavn" : "Grude", "adresse" : "Klostersmauet 74", "postnr" : "5282", "poststed" : "LONEVÅG"}
+{"knr" : 5780, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Jordbotn 9", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5781, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "0988", "poststed" : "OSLO"}
+{"knr" : 5782, "fornavn" : "Andres", "etternavn" : "Hjelm", "adresse" : "Morvikbotn 1", "postnr" : "0015", "poststed" : "OSLO"}
+{"knr" : 5783, "fornavn" : "Kaj", "etternavn" : "Mælen", "adresse" : "Trosteveien 13", "postnr" : "2808", "poststed" : "GJØVIK"}
+{"knr" : 5784, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 69", "postnr" : "1389", "poststed" : "HEGGEDAL"}
+{"knr" : 5785, "fornavn" : "Hulda", "etternavn" : "Blakstad", "adresse" : "Edvard Griegs vei 26", "postnr" : "0760", "poststed" : "OSLO"}
+{"knr" : 5786, "fornavn" : "Eystein", "etternavn" : "Bakker", "adresse" : "Borgermester Platous gate 49", "postnr" : "4523", "poststed" : "LINDESNES"}
+{"knr" : 5787, "fornavn" : "Maren", "etternavn" : "Martens", "adresse" : "Sukkerhusgaten 18", "postnr" : "2943", "poststed" : "ROGNE"}
+{"knr" : 5788, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22", "postnr" : "3681", "poststed" : "NOTODDEN"}
+{"knr" : 5789, "fornavn" : "Gjert", "etternavn" : "Forland", "adresse" : "Hylkjeneset 69", "postnr" : "0270", "poststed" : "OSLO"}
+{"knr" : 5790, "fornavn" : "Joakim", "etternavn" : "Johnsen", "adresse" : "Nøstebodene 31", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5791, "fornavn" : "Celine", "etternavn" : "Ramberg", "adresse" : "Øvregaten 4", "postnr" : "1539", "poststed" : "MOSS"}
+{"knr" : 5792, "fornavn" : "Ann-kristin", "etternavn" : "Anthonsen", "adresse" : "Bellgården 15", "postnr" : "6008", "poststed" : "ÅLESUND"}
+{"knr" : 5793, "fornavn" : "Adam", "etternavn" : "Loe", "adresse" : "St. Halvards vei 22D", "postnr" : "3606", "poststed" : "KONGSBERG"}
+{"knr" : 5794, "fornavn" : "Veslemøy", "etternavn" : "Nordbø", "adresse" : "Vesthagen 6", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5795, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "1539", "poststed" : "MOSS"}
+{"knr" : 5796, "fornavn" : "Fanny", "etternavn" : "Betten", "adresse" : "Bønesberget 44", "postnr" : "0122", "poststed" : "OSLO"}
+{"knr" : 5797, "fornavn" : "Agnar", "etternavn" : "Engelsen", "adresse" : "Gårdsvegen 21", "postnr" : "4696", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5798, "fornavn" : "Stephanie", "etternavn" : "Eng", "adresse" : "Gullstølslien 12", "postnr" : "4671", "poststed" : "KRISTIANSAND S"}
+{"knr" : 5799, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "1892", "poststed" : "DEGERNES"}
+{"knr" : 5800, "fornavn" : "Evelyn", "etternavn" : "Langaas", "adresse" : "Skipanesvegen 6", "postnr" : "0764", "poststed" : "OSLO"}
+{"knr" : 5801, "fornavn" : "Ian", "etternavn" : "Irgens", "adresse" : "Nordåshøgda 73", "postnr" : "3209", "poststed" : "SANDEFJORD"}
+{"knr" : 5802, "fornavn" : "Sven", "etternavn" : "Dammen", "adresse" : "Frieda Fasmers vei 43", "postnr" : "6057", "poststed" : "ELLINGSØY"}
+{"knr" : 5803, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "2825", "poststed" : "GJØVIK"}
+{"knr" : 5804, "fornavn" : "Ismail", "etternavn" : "Furu", "adresse" : "Jens Rolfsens gate 47D", "postnr" : "4004", "poststed" : "STAVANGER"}
+{"knr" : 5805, "fornavn" : "Jane", "etternavn" : "Brandtzæg", "adresse" : "Elgvegen 58", "postnr" : "1286", "poststed" : "OSLO"}
+{"knr" : 5806, "fornavn" : "Brian", "etternavn" : "Holte", "adresse" : "Nedberget 49", "postnr" : "2309", "poststed" : "HAMAR"}
+{"knr" : 5807, "fornavn" : "Abdirahman", "etternavn" : "Lindahl", "adresse" : "Solbakksvingen 27", "postnr" : "4276", "poststed" : "VEAVÅGEN"}
+{"knr" : 5808, "fornavn" : "Johny", "etternavn" : "Jonassen", "adresse" : "Nøttveitvegen 35", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5809, "fornavn" : "Søren", "etternavn" : "Hasle", "adresse" : "Lilandsvegen 29", "postnr" : "5859", "poststed" : "BERGEN"}
+{"knr" : 5810, "fornavn" : "Hilmar", "etternavn" : "Bergstrøm", "adresse" : "Bursflata 31", "postnr" : "2302", "poststed" : "HAMAR"}
+{"knr" : 5811, "fornavn" : "Olve", "etternavn" : "Gundersen", "adresse" : "Kringlebotn 25", "postnr" : "0270", "poststed" : "OSLO"}
+{"knr" : 5812, "fornavn" : "Abdirahman", "etternavn" : "Lindahl", "adresse" : "Solbakksvingen 27", "postnr" : "4276", "poststed" : "VEAVÅGEN"}
+{"knr" : 5813, "fornavn" : "Amina", "etternavn" : "Alexandersen", "adresse" : "Asylplassen 2", "postnr" : "3199", "poststed" : "BORRE"}
+{"knr" : 5814, "fornavn" : "Bengt", "etternavn" : "Hollund", "adresse" : "Mølleveien 31", "postnr" : "0801", "poststed" : "OSLO"}
+{"knr" : 5815, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Skjoldlia", "postnr" : "3681", "poststed" : "NOTODDEN"}
+{"knr" : 5816, "fornavn" : "Joakim", "etternavn" : "Bjørgen", "adresse" : "Danckert Krohns gate 71", "postnr" : "3606", "poststed" : "KONGSBERG"}
+{"knr" : 5817, "fornavn" : "Abdullah", "etternavn" : "Endal", "adresse" : "Gullfjellsvegen 9", "postnr" : "5282", "poststed" : "LONEVÅG"}
+{"knr" : 5818, "fornavn" : "Lucas", "etternavn" : "Kirkeby", "adresse" : "Petedalsheia 71", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5819, "fornavn" : "Eystein", "etternavn" : "Bakker", "adresse" : "Borgermester Platous gate 49", "postnr" : "3790", "poststed" : "HELLE"}
+{"knr" : 5820, "fornavn" : "Elias", "etternavn" : "Husabø", "adresse" : "Neshaugen 69", "postnr" : "4742", "poststed" : "GRENDI"}
+{"knr" : 5821, "fornavn" : "Birgitte", "etternavn" : "Garshol", "adresse" : "Jonsvollsgaten 68A", "postnr" : "5912", "poststed" : "SEIM"}
+{"knr" : 5822, "fornavn" : "Gøril", "etternavn" : "Bjørke", "adresse" : "Svineryggen", "postnr" : "3681", "poststed" : "NOTODDEN"}
+{"knr" : 5823, "fornavn" : "Ailin", "etternavn" : "Fjellvang", "adresse" : "Hjortlandsvegen 52", "postnr" : "3681", "poststed" : "NOTODDEN"}
+{"knr" : 5824, "fornavn" : "Erland", "etternavn" : "Hussain", "adresse" : "Nesttunkollen 1", "postnr" : "0171", "poststed" : "OSLO"}

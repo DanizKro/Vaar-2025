@@ -30,6 +30,7 @@ public class MergeSort {
 
 	// O-notasjon = O(n*log(n))
 	private static void mergeSort(int[] array) {
+		
 		int length = array.length;
 		
 		//Basetilfelle

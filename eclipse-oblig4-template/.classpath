@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,jdk.accessibility,jdk.dynalink,jdk.httpserver,jdk.incubator.vector,jdk.jartool,jdk.javadoc,jdk.jconsole,jdk.jshell,jdk.jsobject,jdk.management.jfr,jdk.net,jdk.nio.mapmode,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.unsupported.desktop,jdk.xml.dom,jdk.charsets,jdk.hotspot.agent,jdk.jstatd,jdk.jcmd,jdk.crypto.cryptoki,jdk.random,jdk.graal.compiler.management,jdk.naming.rmi,jdk.crypto.ec,jdk.editpad,java.smartcardio,jdk.graal.compiler,jdk.jpackage,jdk.naming.dns,jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/bson-4.3.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-core-4.3.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-sync-4.3.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-3.7.0-rc0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-2.0.0-alpha1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
