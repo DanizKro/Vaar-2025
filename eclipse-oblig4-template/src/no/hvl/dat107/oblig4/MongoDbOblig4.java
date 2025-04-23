@@ -21,9 +21,10 @@ public class MongoDbOblig4 {
         // ------------------------------------------
         // Oppgave 4b) LOAD DATA into MongoDB
         // Tips! use 
-        repoLoad.loadCollection("kunde", "kunde.json");
+        
+        //repoLoad.loadCollection("kunde", "kunde.json");
         // ------------------------------------------
-//        heading("Loading data ...");
+        heading("Loading data ...");
         /* TODO */
         
         //TEST
