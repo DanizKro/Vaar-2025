@@ -1,4 +1,4 @@
-package uke15;
+package uke15.Oppgave2og3;
 
 /**
  * An interface for the ADT stack.

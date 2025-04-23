@@ -1,18 +1,29 @@
-package uke15;
+package uke15.Oppgave2og3;
 
 public class BinaerTreNode<T>{
+	
     private T element;    
     private BinaerTreNode<T> venstre;
     private BinaerTreNode<T>  hogre;
+    private int hogdeU;
     
     BinaerTreNode (T el) {
     	element = el;
     	venstre = null;
     	hogre   = null;
+    	hogdeU = 0;
     }
     
     // Flere konstruktører og objektmetoder
     
+    public int getHogdeU() {
+ 		return hogdeU;
+ 	}
+
+ 	public void setHogdeU(int hogdeU) {
+ 		this.hogdeU = hogdeU;
+ 	}
+ 	
     public T getElement() {
     	return element;
     }

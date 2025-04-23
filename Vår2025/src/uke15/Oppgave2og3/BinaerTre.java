@@ -1,14 +1,24 @@
-package uke15;
+package uke15.Oppgave2og3;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 public class BinaerTre<T> implements BinaerTreADT<T>, Iterable<T> {
+	
 	private BinaerTreNode<T> rot;
+	
+	public BinaerTreNode<T> getRot() {
+		return rot;
+	}
 
 	public BinaerTre() {
 		rot = null;
 	}
+	
+	public void setRot(BinaerTreNode<T> p) {
+		rot = p;
+	}
+	
 
 	public BinaerTre(T data) {
 		rot = new BinaerTreNode<>(data);
@@ -24,40 +34,69 @@ public class BinaerTre<T> implements BinaerTreADT<T>, Iterable<T> {
 	}
 
 	private int getAntall(BinaerTreNode<T> t) {
-		
-		//Basis
-		if(t == null) {
+		if (t == null) { // basis
 			return 0;
 		}
-		int antVenstre = getAntall(t.getVenstre());
-		int antHoyre = getAntall(t.getHogre());
 
-		return 1 + antVenstre + antHoyre;
+        int aV = getAntall(t.getVenstre());
+        int aH = getAntall(t.getHogre());
+        
+        return 1 + aV + aH;
+        
+        // Kunne gjort det slik
+        // 1. return 1 + getAntall(t.getVenstre) + getAntall(t.getHogre());
+        
+        // 2. Berre ei linje return t == null ? 0 : 1+ ...;
 	}
+	
+	
+	// Oppgave 3 - uke 15 OBLIG-5 ********************************************************************************
+	public boolean erBalansert(BinaerTreNode<T> node) {
+		
+		if(node == null) {
+			return true;
+		}
+		
+		int hogdeVenstre = -1;
+		
+		if(node.getVenstre() !=null) {
+			hogdeVenstre = node.getVenstre().getHogdeU();
+		}
+		
+		int hogdeHoyre = -1;
+		
+		if(node.getHogre() !=null) {
+			hogdeHoyre = node.getHogre().getHogdeU();
+		}
+		
+		if(Math.abs(hogdeVenstre - hogdeHoyre) > 1) {
+			return false;
+		}
+		
+		return erBalansert(node.getVenstre()) && erBalansert(node.getHogre());
+	}
+	
+	
 	
 	@Override
 	public int getAntallPaaNivaa(int k) {
 		return getAntallPaaNivaa(rot, k);
 	}
-	
+
 	private int getAntallPaaNivaa(BinaerTreNode<T> t, int k) {
-		
-		//1.Basis
-		if(t == null) {
+		if (t == null) { // 1. basistilfelle
 			return 0;
 		}
-		//2.Basis
-		if(k == 1) {
+		
+		if (k == 1) {  // 2. basitilfell
 			return 1;
 		}
 		
-		int aV = getAntallPaaNivaa(t.getVenstre(), k-1);
-		int aH = getAntallPaaNivaa(t.getHogre(), k-1);
+		int aV = getAntallPaaNivaa(t.getVenstre(), k - 1);
+		int aH = getAntallPaaNivaa(t.getHogre(), k - 1);
 		
 		return aV + aH;
-		
 	}
-
 	@Override
 	public int getHogde() {
 		return getHogde(rot);
@@ -120,14 +159,12 @@ public class BinaerTre<T> implements BinaerTreADT<T>, Iterable<T> {
 	}
 
 	private void visPostorden(BinaerTreNode<T> t) {
-		
-		//Basistilfellet
-		if(t == null) {
-			
+		if (t == null) {
+			// basis gjer ingenting
 		} else {
 			visPostorden(t.getVenstre());
 			visPostorden(t.getHogre());
-			System.out.print(t.getElement());
+			System.out.println(t.getElement());
 		}
 	}
 
