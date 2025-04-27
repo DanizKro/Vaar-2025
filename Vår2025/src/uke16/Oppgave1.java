@@ -7,7 +7,7 @@ public class Oppgave1 {
 
 	public static void main(String[] args) {
 		
-		int[] tabell = {1,5,7,2,9,7,3,4};
+		int[] tabell = {15, 8, 1, 9, 11, 5, 10, 12};
 		
 		int sjekk = 3;
 		
@@ -15,20 +15,20 @@ public class Oppgave1 {
 		System.out.print("QuickSort:     ");
 		int[] minste = minsteQuickSort(tabell, sjekk);
 		for(int e : minste) {
-			System.out.print(e);
+			System.out.print(e + " ");
 		} System.out.println();
 		
 		
 		System.out.print("SelectionSort: ");
 		int[] minste2 = minsteSelectionSort(tabell, sjekk);
 		for(int e : minste2) {
-			System.out.print(e);
+			System.out.print(e + " ");
 		} System.out.println();
 		
 		System.out.print("InsertionSort: ");
 		int[] minste3 = minsteInsertionSort(tabell, sjekk);
 		for(int e : minste3) {
-			System.out.print(e);
+			System.out.print(e + " ");
 		} System.out.println();
 		
 		
@@ -36,7 +36,7 @@ public class Oppgave1 {
 		PriorityQueue<Integer> tab = minsteHeapSort(tabell, sjekk);
 		
 		while (!tab.isEmpty()) {
-		    System.out.print(tab.remove());
+		    System.out.print(tab.remove() + " ");
 		} System.out.println();
 		
 		

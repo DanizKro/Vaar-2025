@@ -25,9 +25,11 @@ public class MongoDbOblig4 {
         //repoLoad.loadCollection("kunde", "kunde.json");
         // ------------------------------------------
         heading("Loading data ...");
-        /* TODO */
+        repoLoad.loadCollection("kunde", "kunde.json");//Laster inn dokumentet Kunder, og all data fra den til Database
+        repoLoad.loadCollection("kunde", "kunde.json");
+        repoLoad.loadCollection("kunde", "kunde.json");
         
-        //TEST
+        
         
         // ------------------------------------------
         // Oppgave 4 d) Finn kundenr 5002
