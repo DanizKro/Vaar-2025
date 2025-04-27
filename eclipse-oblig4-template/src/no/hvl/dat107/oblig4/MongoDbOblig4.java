@@ -29,19 +29,19 @@ public class MongoDbOblig4 {
         
         //TEST
         
-//        // ------------------------------------------
-//        // Oppgave 4 d) Finn kundenr 5002
-//        // ------------------------------------------
-//        heading("Finding Kundenr = 5002");
-//        
-//        // TODO: Fullfør metoden findByKnr i KundeRepository
-//        Kunde kunde = repoKunde.findByKnr(5002);
-//        if (kunde != null) {
-//        	System.out.println(kunde);
-//        } else {
-//        	System.out.println("INFO: Kundenr 5002 finnes ikke.");
-//        }
-//        
+        // ------------------------------------------
+        // Oppgave 4 d) Finn kundenr 5002
+        // ------------------------------------------
+        heading("Finding Kundenr = 5002");
+        
+        // TODO: Fullfør metoden findByKnr i KundeRepository
+        Kunde kunde = repoKunde.findByKnr(5002);
+        if (kunde != null) {
+        	System.out.println(kunde);
+        } else {
+        	System.out.println("INFO: Kundenr 5002 finnes ikke.");
+        }
+        
 //        // ------------------------------------------
 //        // Oppgave 4 e) Legg til ny kunde 
 //        // ------------------------------------------

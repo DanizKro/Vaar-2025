@@ -26,12 +26,16 @@ public class KundeRepository {
 		this.kunder = db.getCollection("kunde", Kunde.class);
 	}
 	
-	public /* TODO */ findByKnr(/* TODO */) {
-		/* TODO */
+	public Kunde findByKnr(int knr) {
+		
+		return kunder.find(eq("knr", knr)).first();
 	}
 
-	public /* TODO */ save(/* TODO */) {
-		/* TODO */
+	public Kunde save(Integer kundeNr, String fornavn, String etternavn, String adresse, String postnr) {
+		
+		Kunde ny1 = new Kunde();
+		
+		return ny1;
 	}
 
 	public /* TODO */ delete(/* TODO */) {
