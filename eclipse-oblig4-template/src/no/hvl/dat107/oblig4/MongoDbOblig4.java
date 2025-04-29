@@ -26,8 +26,8 @@ public class MongoDbOblig4 {
         // ------------------------------------------
         heading("Loading data ...");
         repoLoad.loadCollection("kunde", "kunde.json");//Laster inn dokumentet Kunder, og all data fra den til Database
-        repoLoad.loadCollection("kunde", "kunde.json");
-        repoLoad.loadCollection("kunde", "kunde.json");
+        repoLoad.loadCollection("vare", "vare.json");
+        repoLoad.loadCollection("ordre", "ordre.json");
         
         
         
@@ -44,52 +44,52 @@ public class MongoDbOblig4 {
         	System.out.println("INFO: Kundenr 5002 finnes ikke.");
         }
         
-//        // ------------------------------------------
-//        // Oppgave 4 e) Legg til ny kunde 
-//        // ------------------------------------------
-//        heading("Inserting new Kunde 5001");
-//        
-//        // TODO: Fullfør metoden save i KundeRepository
-//        Kunde aKunde = new Kunde(5001,"Ola", "Hansen", "Lia 2", "1234");
-//        Kunde nyKunde = repoKunde.save(aKunde);
-//        
-//        if (nyKunde != null) {
-//        	System.out.println(nyKunde);
-//        } else {
-//        	System.out.println("INFO: Kundenr 5001 finnes ikke.");
-//        }
-//        
-//        // ------------------------------------------
-//        // Oppgave 4 d) Slett kunde 
-//        // ------------------------------------------
-//        heading("Slett kundenr 5007 ...");
-//        
-//        // TODO: Fullfør metoden delete i KundeRepository
-//        Kunde slettetKunde = repoKunde.delete(5007);
-//        
-//        if (slettetKunde != null) {
-//        	System.out.println("Kunde 5007 er slettet.");
-//        } else {
-//        	System.out.println("INFO: Kundenr 5007 finnes ikke.");
-//        }
-//       
-//        
-//        // ------------------------------------------
-//        // Oppgave 4 e) Endre fornavn knr 5002 => Pål 
-//        // ------------------------------------------
-//        
-//        if (kunde != null) {
-//        	heading("Endrer fornavn kundenr 5002 til 'Pål' ..."); 
-//        	
-//        	kunde.setFornavn("Pål");
-//        	Kunde endretKunde = repoKunde.update(kunde.getId(), kunde); 
-//            
-//        	if (endretKunde != null) {
-//            	System.out.println(kunde);
-//            } else {
-//            	System.out.println("INFO: Kundenr 5002 finnes ikke.");
-//            }
-//        }
+        // ------------------------------------------
+        // Oppgave 4 e) Legg til ny kunde 
+        // ------------------------------------------
+        heading("Inserting new Kunde 5001");
+        
+        // TODO: Fullfør metoden save i KundeRepository
+        Kunde aKunde = new Kunde(5001,"Ola", "Hansen", "Lia 2", "1234");
+        Kunde nyKunde = repoKunde.save(aKunde);
+        
+        if (nyKunde != null) {
+        	System.out.println(nyKunde);
+        } else {
+        	System.out.println("INFO: Kundenr 5001 finnes ikke.");
+        }
+        
+        // ------------------------------------------
+        // Oppgave 4 d) Slett kunde 
+        // ------------------------------------------
+        heading("Slett kundenr 5007 ...");
+        
+        // TODO: Fullfør metoden delete i KundeRepository
+        Kunde slettetKunde = repoKunde.delete(5007);
+        
+        if (slettetKunde != null) {
+        	System.out.println("Kunde 5007 er slettet.");
+        } else {
+        	System.out.println("INFO: Kundenr 5007 finnes ikke.");
+        }
+       
+        
+        // ------------------------------------------
+        // Oppgave 4 e) Endre fornavn knr 5002 => Pål 
+        // ------------------------------------------
+        
+        if (kunde != null) {
+        	heading("Endrer fornavn kundenr 5002 til 'Pål' ..."); 
+        	
+        	kunde.setFornavn("Pål");
+        	Kunde endretKunde = repoKunde.update(kunde.getId(), kunde); 
+            
+        	if (endretKunde != null) {
+            	System.out.println(kunde);
+            } else {
+            	System.out.println("INFO: Kundenr 5002 finnes ikke.");
+            }
+        }
 
     }
 

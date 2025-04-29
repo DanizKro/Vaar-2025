@@ -1,162 +1,161 @@
-"vare_json"
-"{""vnr"" : ""10820"", ""betegnelse"" : ""Dukkehår, hvitt"", ""pris"" : 53.50, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 106, ""hylle"" : ""E12""}"
-"{""vnr"" : ""10822"", ""betegnelse"" : ""Dukkehår, lys brunt"", ""pris"" : 53.50, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 0, ""hylle"" : ""E12""}"
-"{""vnr"" : ""10830"", ""betegnelse"" : ""Nisseskjegg, 30 cm"", ""pris"" : 66.50, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 42, ""hylle"" : ""   ""}"
-"{""vnr"" : ""10835"", ""betegnelse"" : ""Trollhår, hvitt"", ""pris"" : 95.00, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 0, ""hylle"" : ""E12""}"
-"{""vnr"" : ""10854"", ""betegnelse"" : ""Bomullsgarn, grått"", ""pris"" : 45.50, ""kategori"" : {""katnr"" : 6, ""navn"" : ""Tekstil, søm og strikking""}, ""antall"" : 0, ""hylle"" : ""C07""}"
-"{""vnr"" : ""11630"", ""betegnelse"" : ""Skinnsnor, natur"", ""pris"" : 53.50, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 0, ""hylle"" : ""E02""}"
-"{""vnr"" : ""12054"", ""betegnelse"" : ""Hengebjørk"", ""pris"" : 412.50, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12055"", ""betegnelse"" : ""Røsslyng"", ""pris"" : 274.50, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12056"", ""betegnelse"" : ""Einer 'Blåmann'"", ""pris"" : 220.50, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12088"", ""betegnelse"" : ""Einer 'Tyrihans'"", ""pris"" : 247.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12089"", ""betegnelse"" : ""Gran, standard"", ""pris"" : 166.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12090"", ""betegnelse"" : ""Hvitgran"", ""pris"" : 221.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12091"", ""betegnelse"" : ""Sølvgran 'Globosa'"", ""pris"" : 329.50, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""12092"", ""betegnelse"" : ""Europabarlind"", ""pris"" : 274.50, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 0, ""hylle"" : ""D01""}"
-"{""vnr"" : ""13001"", ""betegnelse"" : ""Glasskuler, 100 gr"", ""pris"" : 44.00, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 0, ""hylle"" : ""E11""}"
-"{""vnr"" : ""15207"", ""betegnelse"" : ""Antron garn, hvit"", ""pris"" : 28.50, ""kategori"" : {""katnr"" : 7, ""navn"" : ""Fiske""}, ""antall"" : 21, ""hylle"" : ""B41""}"
-"{""vnr"" : ""15208"", ""betegnelse"" : ""Antron garn, gul"", ""pris"" : 28.50, ""kategori"" : {""katnr"" : 7, ""navn"" : ""Fiske""}, ""antall"" : 65, ""hylle"" : ""B41""}"
-"{""vnr"" : ""15211"", ""betegnelse"" : ""Tubeflue verktøy"", ""pris"" : 240.00, ""kategori"" : {""katnr"" : 7, ""navn"" : ""Fiske""}, ""antall"" : 39, ""hylle"" : ""B42""}"
-"{""vnr"" : ""15217"", ""betegnelse"" : ""Kram tørrfluekorker, 5stk"", ""pris"" : 37.00, ""kategori"" : {""katnr"" : 7, ""navn"" : ""Fiske""}, ""antall"" : 213, ""hylle"" : ""B42""}"
-"{""vnr"" : ""15559"", ""betegnelse"" : ""Kakepapir, sølv"", ""pris"" : 44.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B29""}"
-"{""vnr"" : ""20936"", ""betegnelse"" : ""Fjær, natur"", ""pris"" : 29.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B29""}"
-"{""vnr"" : ""20980"", ""betegnelse"" : ""Naturfjær"", ""pris"" : 31.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B25""}"
-"{""vnr"" : ""21032"", ""betegnelse"" : ""Furuspon, 3 cm"", ""pris"" : 66.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 240, ""hylle"" : ""B32""}"
-"{""vnr"" : ""21034"", ""betegnelse"" : ""Parasoll, 2.5 m, stål"", ""pris"" : 580.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 0, ""hylle"" : ""F03""}"
-"{""vnr"" : ""21037"", ""betegnelse"" : ""Figurtråd, 50 m"", ""pris"" : 338.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""21510"", ""betegnelse"" : ""Ispinner, 100 stk"", ""pris"" : 40.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""21514"", ""betegnelse"" : ""Cocktailpinner, 100 st"", ""pris"" : 32.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""21515"", ""betegnelse"" : ""Blomsterpinner, 5 stk"", ""pris"" : 31.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""21517"", ""betegnelse"" : ""Tannpirkere, 100 stk"", ""pris"" : 18.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""21580"", ""betegnelse"" : ""Sponflis, natur"", ""pris"" : 15.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B36""}"
-"{""vnr"" : ""22002"", ""betegnelse"" : ""Fyrstikker, 150gr"", ""pris"" : 63.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 460, ""hylle"" : ""C17""}"
-"{""vnr"" : ""22054"", ""betegnelse"" : ""Vannkanne, 5 ltr."", ""pris"" : 81.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 24, ""hylle"" : ""A27""}"
-"{""vnr"" : ""22055"", ""betegnelse"" : ""Bensinkanne 5 ltr., grønn"", ""pris"" : 246.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 110, ""hylle"" : ""A27""}"
-"{""vnr"" : ""22056"", ""betegnelse"" : ""Nettingbøtte, plast"", ""pris"" : 150.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 6, ""hylle"" : ""A27""}"
-"{""vnr"" : ""22165"", ""betegnelse"" : ""Hafa gressklipper G8, bensin"", ""pris"" : 6210.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 16, ""hylle"" : ""A01""}"
-"{""vnr"" : ""22179"", ""betegnelse"" : ""Hafa gresklipper G9, elektrisk"", ""pris"" : 1656.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 24, ""hylle"" : ""A01""}"
-"{""vnr"" : ""22870"", ""betegnelse"" : ""Dukkeøyne, 7 mm blå"", ""pris"" : 24.00, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 252, ""hylle"" : ""E12""}"
-"{""vnr"" : ""25079"", ""betegnelse"" : ""Trillebår"", ""pris"" : 384.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 46, ""hylle"" : ""A11""}"
-"{""vnr"" : ""25121"", ""betegnelse"" : ""Hafa elektrisk hekksaks Z3"", ""pris"" : 481.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 110, ""hylle"" : ""A12""}"
-"{""vnr"" : ""25131"", ""betegnelse"" : ""Juwa Motorsag XY65"", ""pris"" : 1240.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 42, ""hylle"" : ""A29""}"
-"{""vnr"" : ""25136"", ""betegnelse"" : ""Juwa Anleggspade"", ""pris"" : 207.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 6, ""hylle"" : ""A30""}"
-"{""vnr"" : ""25137"", ""betegnelse"" : ""Juwa Snøskuffe, standard"", ""pris"" : 262.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 30, ""hylle"" : ""A04""}"
-"{""vnr"" : ""25138"", ""betegnelse"" : ""Grensaks med sideskjær"", ""pris"" : 191.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 2, ""hylle"" : ""A21""}"
-"{""vnr"" : ""25154"", ""betegnelse"" : ""Ljå"", ""pris"" : 317.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 4, ""hylle"" : ""A17""}"
-"{""vnr"" : ""32055"", ""betegnelse"" : ""Juwa Barkespade"", ""pris"" : 150.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 0, ""hylle"" : ""A15""}"
-"{""vnr"" : ""32067"", ""betegnelse"" : ""Juwa Hagerive, 14 rette tinder"", ""pris"" : 108.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 440, ""hylle"" : ""A14""}"
-"{""vnr"" : ""32069"", ""betegnelse"" : ""Stikkspade"", ""pris"" : 177.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 26, ""hylle"" : ""A12""}"
-"{""vnr"" : ""32191"", ""betegnelse"" : ""Formgummi 0.5 l"", ""pris"" : 462.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 88, ""hylle"" : ""B04""}"
-"{""vnr"" : ""32610"", ""betegnelse"" : ""Gipsform lysestaker"", ""pris"" : 122.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 58, ""hylle"" : ""B02""}"
-"{""vnr"" : ""33044"", ""betegnelse"" : ""Blandet blomsterfrø"", ""pris"" : 16.50, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 1080, ""hylle"" : ""E05""}"
-"{""vnr"" : ""33045"", ""betegnelse"" : ""Blomkarse"", ""pris"" : 20.50, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 1206, ""hylle"" : ""E05""}"
-"{""vnr"" : ""33046"", ""betegnelse"" : ""Brudeslør"", ""pris"" : 17.00, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 640, ""hylle"" : ""E05""}"
-"{""vnr"" : ""33047"", ""betegnelse"" : ""Rød pelargonium"", ""pris"" : 18.00, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 240, ""hylle"" : ""E05""}"
-"{""vnr"" : ""35911"", ""betegnelse"" : ""Meksikansk solsikke"", ""pris"" : 13.50, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 46, ""hylle"" : ""E05""}"
-"{""vnr"" : ""35912"", ""betegnelse"" : ""Stemorsblomst"", ""pris"" : 13.50, ""kategori"" : {""katnr"" : 15, ""navn"" : ""Blomsterfrø""}, ""antall"" : 0, ""hylle"" : ""E05""}"
-"{""vnr"" : ""37710"", ""betegnelse"" : ""Balkongtomat"", ""pris"" : 40.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 0, ""hylle"" : ""E24""}"
-"{""vnr"" : ""37720"", ""betegnelse"" : ""Bifftomat"", ""pris"" : 48.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 88, ""hylle"" : ""E24""}"
-"{""vnr"" : ""37725"", ""betegnelse"" : ""Gul pottetomat"", ""pris"" : 41.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 24, ""hylle"" : ""E24""}"
-"{""vnr"" : ""37730"", ""betegnelse"" : ""Slangeagurk"", ""pris"" : 27.50, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 52, ""hylle"" : ""E24""}"
-"{""vnr"" : ""37731"", ""betegnelse"" : ""Sylteagurk"", ""pris"" : 35.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 402, ""hylle"" : ""E24""}"
-"{""vnr"" : ""37732"", ""betegnelse"" : ""Rødløk"", ""pris"" : 31.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 0, ""hylle"" : ""E25""}"
-"{""vnr"" : ""41020"", ""betegnelse"" : ""Hobbyleire terrakotta, 1 kg"", ""pris"" : 108.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 58, ""hylle"" : ""B02""}"
-"{""vnr"" : ""41096"", ""betegnelse"" : ""Blåleire, 10kg"", ""pris"" : 132.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 460, ""hylle"" : ""B02""}"
-"{""vnr"" : ""41097"", ""betegnelse"" : ""Rød leire, 10kg"", ""pris"" : 163.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 580, ""hylle"" : ""B02""}"
-"{""vnr"" : ""41098"", ""betegnelse"" : ""Keramisk leire"", ""pris"" : 95.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 834, ""hylle"" : ""B02""}"
-"{""vnr"" : ""42613"", ""betegnelse"" : ""Gipsform klovner"", ""pris"" : 122.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 210, ""hylle"" : ""B02""}"
-"{""vnr"" : ""42615"", ""betegnelse"" : ""Gipsform marihøner"", ""pris"" : 122.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 124, ""hylle"" : ""B03""}"
-"{""vnr"" : ""42626"", ""betegnelse"" : ""Gipsform fisker m.m."", ""pris"" : 162.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 62, ""hylle"" : ""B03""}"
-"{""vnr"" : ""42929"", ""betegnelse"" : ""Pepperkakeformer"", ""pris"" : 95.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 38, ""hylle"" : ""B09""}"
-"{""vnr"" : ""42933"", ""betegnelse"" : ""Former til leire, stjerner"", ""pris"" : 79.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 78, ""hylle"" : ""B04""}"
-"{""vnr"" : ""42934"", ""betegnelse"" : ""Former til leire, hjerter"", ""pris"" : 79.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 204, ""hylle"" : ""B04""}"
-"{""vnr"" : ""42939"", ""betegnelse"" : ""Pepperkakeformer, 15stk"", ""pris"" : 109.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 640, ""hylle"" : ""B09""}"
-"{""vnr"" : ""42941"", ""betegnelse"" : ""Julesett"", ""pris"" : 82.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 1040, ""hylle"" : ""B29""}"
-"{""vnr"" : ""42945"", ""betegnelse"" : ""Metallform praliner, 9stk"", ""pris"" : 93.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 24, ""hylle"" : ""B04""}"
-"{""vnr"" : ""43000"", ""betegnelse"" : ""Startsett papir"", ""pris"" : 621.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 134, ""hylle"" : ""B25""}"
-"{""vnr"" : ""43014"", ""betegnelse"" : ""Treramme A4"", ""pris"" : 428.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 24, ""hylle"" : ""B25""}"
-"{""vnr"" : ""43015"", ""betegnelse"" : ""Treramme A5"", ""pris"" : 331.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 0, ""hylle"" : ""B32""}"
-"{""vnr"" : ""44939"", ""betegnelse"" : ""Hobbymaling, 6 farger"", ""pris"" : 132.00, ""kategori"" : {""katnr"" : 2, ""navn"" : ""Hobbymaling""}, ""antall"" : 2, ""hylle"" : ""B02""}"
-"{""vnr"" : ""45101"", ""betegnelse"" : ""Papirleire, 450 gr"", ""pris"" : 66.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 80, ""hylle"" : ""B04""}"
-"{""vnr"" : ""45105"", ""betegnelse"" : ""Pappmachepulver"", ""pris"" : 52.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 162, ""hylle"" : ""B04""}"
-"{""vnr"" : ""45923"", ""betegnelse"" : ""Krukke med føtter, 12cm"", ""pris"" : 48.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 604, ""hylle"" : ""B32""}"
-"{""vnr"" : ""45935"", ""betegnelse"" : ""Potteskål, diameter 10cm"", ""pris"" : 22.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 258, ""hylle"" : ""B30""}"
-"{""vnr"" : ""46702"", ""betegnelse"" : ""Terrakottafigur katt"", ""pris"" : 82.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 138, ""hylle"" : ""B30""}"
-"{""vnr"" : ""46706"", ""betegnelse"" : ""Sparegris terrakotta"", ""pris"" : 31.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 176, ""hylle"" : ""B30""}"
-"{""vnr"" : ""46738"", ""betegnelse"" : ""Terrakottafat med hjerter"", ""pris"" : 46.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 22, ""hylle"" : ""B31""}"
-"{""vnr"" : ""46741"", ""betegnelse"" : ""Lyskrukke, 4cm"", ""pris"" : 12.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 118, ""hylle"" : ""B31""}"
-"{""vnr"" : ""46745"", ""betegnelse"" : ""Terrakottakrukke 20x10cm"", ""pris"" : 50.50, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 24, ""hylle"" : ""B31""}"
-"{""vnr"" : ""47903"", ""betegnelse"" : ""HaFa snøfreser Maxi"", ""pris"" : 12896.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 6, ""hylle"" : ""A04""}"
-"{""vnr"" : ""49916"", ""betegnelse"" : ""Lezlo leire, brun, 150gr."", ""pris"" : 29.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 24, ""hylle"" : ""B04""}"
-"{""vnr"" : ""49917"", ""betegnelse"" : ""Lezlo leire, sort, 150 gr."", ""pris"" : 29.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 184, ""hylle"" : ""B04""}"
-"{""vnr"" : ""49919"", ""betegnelse"" : ""Lezlo leiresett"", ""pris"" : 67.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 42, ""hylle"" : ""B04""}"
-"{""vnr"" : ""49921"", ""betegnelse"" : ""Lezlo leire, økonomipakke"", ""pris"" : 411.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 164, ""hylle"" : ""B04""}"
-"{""vnr"" : ""55112"", ""betegnelse"" : ""HaFa løvblåser AX30"", ""pris"" : 688.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 22, ""hylle"" : ""A03""}"
-"{""vnr"" : ""55129"", ""betegnelse"" : ""Lek med lakris"", ""pris"" : 177.00, ""kategori"" : {""katnr"" : 10, ""navn"" : ""Bøker""}, ""antall"" : 64, ""hylle"" : ""C20""}"
-"{""vnr"" : ""55130"", ""betegnelse"" : ""Moro med marsipan"", ""pris"" : 343.50, ""kategori"" : {""katnr"" : 10, ""navn"" : ""Bøker""}, ""antall"" : 140, ""hylle"" : ""C20""}"
-"{""vnr"" : ""55550"", ""betegnelse"" : ""Juwa jordfreser mx40"", ""pris"" : 1792.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 14, ""hylle"" : ""A03""}"
-"{""vnr"" : ""58028"", ""betegnelse"" : ""Cernit dukkeleire lys"", ""pris"" : 163.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 44, ""hylle"" : ""B04""}"
-"{""vnr"" : ""59915"", ""betegnelse"" : ""Juwa leire grønn, 150 gr."", ""pris"" : 29.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 34, ""hylle"" : ""B04""}"
-"{""vnr"" : ""64509"", ""betegnelse"" : ""Kongelilje, 10 stk."", ""pris"" : 163.00, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 132, ""hylle"" : ""E03""}"
-"{""vnr"" : ""64510"", ""betegnelse"" : ""Lilje mercedes, 10 stk."", ""pris"" : 177.00, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 164, ""hylle"" : ""E03""}"
-"{""vnr"" : ""64511"", ""betegnelse"" : ""Lilje sibir, 20 stk."", ""pris"" : 261.50, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 278, ""hylle"" : ""E03""}"
-"{""vnr"" : ""64550"", ""betegnelse"" : ""Småsymre, 10 stk."", ""pris"" : 145.00, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 58, ""hylle"" : ""E03""}"
-"{""vnr"" : ""64551"", ""betegnelse"" : ""Hengebegonia, 10 stk."", ""pris"" : 136.00, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 206, ""hylle"" : ""   ""}"
-"{""vnr"" : ""64552"", ""betegnelse"" : ""Storblomstret begonia, 20 stk."", ""pris"" : 317.00, ""kategori"" : {""katnr"" : 16, ""navn"" : ""Blomsterløker""}, ""antall"" : 42, ""hylle"" : ""E03""}"
-"{""vnr"" : ""65032"", ""betegnelse"" : ""Hafa gressklipper skyv"", ""pris"" : 688.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 34, ""hylle"" : ""A01""}"
-"{""vnr"" : ""65033"", ""betegnelse"" : ""Hafa Y15 gresstrimmer"", ""pris"" : 1201.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 80, ""hylle"" : ""A02""}"
-"{""vnr"" : ""65034"", ""betegnelse"" : ""Hafa SX90 plentraktor"", ""pris"" : 17250.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 8, ""hylle"" : ""A05""}"
-"{""vnr"" : ""65060"", ""betegnelse"" : ""Strandtennis"", ""pris"" : 53.50, ""kategori"" : {""katnr"" : 11, ""navn"" : ""Leker""}, ""antall"" : 94, ""hylle"" : ""C31""}"
-"{""vnr"" : ""65070"", ""betegnelse"" : ""Boule"", ""pris"" : 136.50, ""kategori"" : {""katnr"" : 11, ""navn"" : ""Leker""}, ""antall"" : 100, ""hylle"" : ""C31""}"
-"{""vnr"" : ""65080"", ""betegnelse"" : ""Barnetrillebår"", ""pris"" : 550.00, ""kategori"" : {""katnr"" : 11, ""navn"" : ""Leker""}, ""antall"" : 50, ""hylle"" : ""C31""}"
-"{""vnr"" : ""65081"", ""betegnelse"" : ""Plantegreip"", ""pris"" : 129.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 34, ""hylle"" : ""A22""}"
-"{""vnr"" : ""65082"", ""betegnelse"" : ""Kvistsag"", ""pris"" : 200.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 8, ""hylle"" : ""A25""}"
-"{""vnr"" : ""65122"", ""betegnelse"" : ""Skjermvegg med gresspyd"", ""pris"" : 1792.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 0, ""hylle"" : ""F07""}"
-"{""vnr"" : ""65142"", ""betegnelse"" : ""Gressaks, svingbar"", ""pris"" : 107.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 20, ""hylle"" : ""A21""}"
-"{""vnr"" : ""65143"", ""betegnelse"" : ""Fruktplukker"", ""pris"" : 96.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 16, ""hylle"" : ""A13""}"
-"{""vnr"" : ""65147"", ""betegnelse"" : ""Fluktstol, sammenleggbar"", ""pris"" : 274.50, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 46, ""hylle"" : ""F09""}"
-"{""vnr"" : ""65190"", ""betegnelse"" : ""Hageslange, 20 m., grønn"", ""pris"" : 219.50, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 2, ""hylle"" : ""A28""}"
-"{""vnr"" : ""65191"", ""betegnelse"" : ""Blomsterkasse"", ""pris"" : 26.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 26, ""hylle"" : ""A27""}"
-"{""vnr"" : ""65247"", ""betegnelse"" : ""Liten plantespade"", ""pris"" : 86.00, ""kategori"" : {""katnr"" : 1, ""navn"" : ""Hageutstyr""}, ""antall"" : 76, ""hylle"" : ""A25""}"
-"{""vnr"" : ""71912"", ""betegnelse"" : ""Eggemaler med maling"", ""pris"" : 40.00, ""kategori"" : {""katnr"" : 17, ""navn"" : ""Dekorasjoner""}, ""antall"" : 182, ""hylle"" : ""C17""}"
-"{""vnr"" : ""72777"", ""betegnelse"" : ""Julehobbypakke for barn"", ""pris"" : 177.00, ""kategori"" : {""katnr"" : 20, ""navn"" : ""Hobbypakker""}, ""antall"" : 820, ""hylle"" : ""A06""}"
-"{""vnr"" : ""72942"", ""betegnelse"" : ""Plukksalat"", ""pris"" : 40.50, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 280, ""hylle"" : ""E21""}"
-"{""vnr"" : ""72943"", ""betegnelse"" : ""Brekkbønner"", ""pris"" : 40.50, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 342, ""hylle"" : ""E21""}"
-"{""vnr"" : ""72944"", ""betegnelse"" : ""Sukkererter"", ""pris"" : 48.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 478, ""hylle"" : ""A06""}"
-"{""vnr"" : ""76032"", ""betegnelse"" : ""Kalk, granulert, 25 kg"", ""pris"" : 384.50, ""kategori"" : {""katnr"" : 21, ""navn"" : ""Gjødsel""}, ""antall"" : 60, ""hylle"" : ""E20""}"
-"{""vnr"" : ""77033"", ""betegnelse"" : ""Japanbarlind"", ""pris"" : 412.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 168, ""hylle"" : ""D01""}"
-"{""vnr"" : ""77036"", ""betegnelse"" : ""Dvergtuja"", ""pris"" : 412.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 46, ""hylle"" : ""D01""}"
-"{""vnr"" : ""77038"", ""betegnelse"" : ""Gul søyletuja"", ""pris"" : 550.00, ""kategori"" : {""katnr"" : 14, ""navn"" : ""Busker""}, ""antall"" : 8, ""hylle"" : ""D01""}"
-"{""vnr"" : ""77249"", ""betegnelse"" : ""Hagebenk, furu"", ""pris"" : 1792.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 4, ""hylle"" : ""F01""}"
-"{""vnr"" : ""77251"", ""betegnelse"" : ""Bord, 102 cm diameter"", ""pris"" : 757.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 68, ""hylle"" : ""F03""}"
-"{""vnr"" : ""77252"", ""betegnelse"" : ""Stol, hvit plast"", ""pris"" : 39.50, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 36, ""hylle"" : ""F03""}"
-"{""vnr"" : ""77276"", ""betegnelse"" : ""Sofagruppe, 2+3"", ""pris"" : 5242.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 14, ""hylle"" : ""F01""}"
-"{""vnr"" : ""77277"", ""betegnelse"" : ""Parasoll, 2.5 meter, stål, kr"", ""pris"" : 412.00, ""kategori"" : {""katnr"" : 12, ""navn"" : ""Hagemøbler""}, ""antall"" : 18, ""hylle"" : ""F02""}"
-"{""vnr"" : ""78029"", ""betegnelse"" : ""Cernit dukkeleire mørk"", ""pris"" : 163.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 82, ""hylle"" : ""B04""}"
-"{""vnr"" : ""80032"", ""betegnelse"" : ""Arena høst, 25 kg"", ""pris"" : 177.50, ""kategori"" : {""katnr"" : 21, ""navn"" : ""Gjødsel""}, ""antall"" : 114, ""hylle"" : ""E20""}"
-"{""vnr"" : ""80082"", ""betegnelse"" : ""Aluminiumsulfat, 25 kg"", ""pris"" : 136.50, ""kategori"" : {""katnr"" : 21, ""navn"" : ""Gjødsel""}, ""antall"" : 62, ""hylle"" : ""E20""}"
-"{""vnr"" : ""80088"", ""betegnelse"" : ""Fullgjødsel, 40 kg"", ""pris"" : 245.00, ""kategori"" : {""katnr"" : 21, ""navn"" : ""Gjødsel""}, ""antall"" : 452, ""hylle"" : ""E20""}"
-"{""vnr"" : ""80692"", ""betegnelse"" : ""Rørespatel"", ""pris"" : 45.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 602, ""hylle"" : ""B17""}"
-"{""vnr"" : ""81007"", ""betegnelse"" : ""Hobbyleire, hvit 500g"", ""pris"" : 71.50, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 112, ""hylle"" : ""B02""}"
-"{""vnr"" : ""82090"", ""betegnelse"" : ""Matløk"", ""pris"" : 35.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 38, ""hylle"" : ""E25""}"
-"{""vnr"" : ""82092"", ""betegnelse"" : ""Sommergulrot"", ""pris"" : 21.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 178, ""hylle"" : ""E25""}"
-"{""vnr"" : ""82093"", ""betegnelse"" : ""Rund gulrot"", ""pris"" : 28.00, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 658, ""hylle"" : ""E25""}"
-"{""vnr"" : ""82095"", ""betegnelse"" : ""Hodesalat"", ""pris"" : 27.50, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 500, ""hylle"" : ""E21""}"
-"{""vnr"" : ""82096"", ""betegnelse"" : ""Issalat"", ""pris"" : 31.50, ""kategori"" : {""katnr"" : 18, ""navn"" : ""Grønnsaksfrø""}, ""antall"" : 388, ""hylle"" : ""E21""}"
-"{""vnr"" : ""83013"", ""betegnelse"" : ""Tilda maling teddybrun"", ""pris"" : 53.00, ""kategori"" : {""katnr"" : 2, ""navn"" : ""Hobbymaling""}, ""antall"" : 86, ""hylle"" : ""B01""}"
-"{""vnr"" : ""90106"", ""betegnelse"" : ""Deigskrape av plast"", ""pris"" : 44.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 46, ""hylle"" : ""B04""}"
-"{""vnr"" : ""90109"", ""betegnelse"" : ""Metallskrape"", ""pris"" : 46.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 38, ""hylle"" : ""B05""}"
-"{""vnr"" : ""90116"", ""betegnelse"" : ""Smaksemne sjokolade 10ml"", ""pris"" : 58.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 164, ""hylle"" : ""B06""}"
-"{""vnr"" : ""90164"", ""betegnelse"" : ""Lakrisekstrakt, 100g"", ""pris"" : 86.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 104, ""hylle"" : ""B06""}"
-"{""vnr"" : ""90192"", ""betegnelse"" : ""Dropsform skjell"", ""pris"" : 81.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 176, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90208"", ""betegnelse"" : ""Form nisse"", ""pris"" : 82.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 70, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90209"", ""betegnelse"" : ""Form vingummi"", ""pris"" : 82.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 32, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90212"", ""betegnelse"" : ""Form skjell"", ""pris"" : 82.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 240, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90510"", ""betegnelse"" : ""Kakestativ"", ""pris"" : 495.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 60, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90521"", ""betegnelse"" : ""Kakemønstermaler"", ""pris"" : 163.50, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 38, ""hylle"" : ""B18""}"
-"{""vnr"" : ""90531"", ""betegnelse"" : ""Kakekutter"", ""pris"" : 95.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 160, ""hylle"" : ""B18""}"
-"{""vnr"" : ""90545"", ""betegnelse"" : ""Kakesprøyte sett"", ""pris"" : 331.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 46, ""hylle"" : ""B18""}"
-"{""vnr"" : ""90693"", ""betegnelse"" : ""Marsipantang"", ""pris"" : 66.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 0, ""hylle"" : ""B17""}"
-"{""vnr"" : ""90737"", ""betegnelse"" : ""Startsett lakris"", ""pris"" : 407.00, ""kategori"" : {""katnr"" : 4, ""navn"" : ""Konfekt og marsipan""}, ""antall"" : 126, ""hylle"" : ""B09""}"
-"{""vnr"" : ""91008"", ""betegnelse"" : ""Hobbyleire, hvit 1 kg"", ""pris"" : 108.00, ""kategori"" : {""katnr"" : 3, ""navn"" : ""Keramikk""}, ""antall"" : 20, ""hylle"" : ""B02""}"
-"{""vnr"" : ""92606"", ""betegnelse"" : ""Gipsform nisser 6-14cm"", ""pris"" : 122.00, ""kategori"" : {""katnr"" : 13, ""navn"" : ""Dukker og nisser""}, ""antall"" : 46, ""hylle"" : ""E11""}"
+{"vnr" : "10820", "betegnelse" : "Dukkehår, hvitt", "pris" : 53.50, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 106, "hylle" : "E12"}
+{"vnr" : "10822", "betegnelse" : "Dukkehår, lys brunt", "pris" : 53.50, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 0, "hylle" : "E12"}
+{"vnr" : "10830", "betegnelse" : "Nisseskjegg, 30 cm", "pris" : 66.50, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 42, "hylle" : "   "}
+{"vnr" : "10835", "betegnelse" : "Trollhår, hvitt", "pris" : 95.00, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 0, "hylle" : "E12"}
+{"vnr" : "10854", "betegnelse" : "Bomullsgarn, grått", "pris" : 45.50, "kategori" : {"katnr" : 6, "navn" : "Tekstil, søm og strikking"}, "antall" : 0, "hylle" : "C07"}
+{"vnr" : "11630", "betegnelse" : "Skinnsnor, natur", "pris" : 53.50, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 0, "hylle" : "E02"}
+{"vnr" : "12054", "betegnelse" : "Hengebjørk", "pris" : 412.50, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12055", "betegnelse" : "Røsslyng", "pris" : 274.50, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12056", "betegnelse" : "Einer 'Blåmann'", "pris" : 220.50, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12088", "betegnelse" : "Einer 'Tyrihans'", "pris" : 247.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12089", "betegnelse" : "Gran, standard", "pris" : 166.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12090", "betegnelse" : "Hvitgran", "pris" : 221.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12091", "betegnelse" : "Sølvgran 'Globosa'", "pris" : 329.50, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "12092", "betegnelse" : "Europabarlind", "pris" : 274.50, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 0, "hylle" : "D01"}
+{"vnr" : "13001", "betegnelse" : "Glasskuler, 100 gr", "pris" : 44.00, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 0, "hylle" : "E11"}
+{"vnr" : "15207", "betegnelse" : "Antron garn, hvit", "pris" : 28.50, "kategori" : {"katnr" : 7, "navn" : "Fiske"}, "antall" : 21, "hylle" : "B41"}
+{"vnr" : "15208", "betegnelse" : "Antron garn, gul", "pris" : 28.50, "kategori" : {"katnr" : 7, "navn" : "Fiske"}, "antall" : 65, "hylle" : "B41"}
+{"vnr" : "15211", "betegnelse" : "Tubeflue verktøy", "pris" : 240.00, "kategori" : {"katnr" : 7, "navn" : "Fiske"}, "antall" : 39, "hylle" : "B42"}
+{"vnr" : "15217", "betegnelse" : "Kram tørrfluekorker, 5stk", "pris" : 37.00, "kategori" : {"katnr" : 7, "navn" : "Fiske"}, "antall" : 213, "hylle" : "B42"}
+{"vnr" : "15559", "betegnelse" : "Kakepapir, sølv", "pris" : 44.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B29"}
+{"vnr" : "20936", "betegnelse" : "Fjær, natur", "pris" : 29.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B29"}
+{"vnr" : "20980", "betegnelse" : "Naturfjær", "pris" : 31.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B25"}
+{"vnr" : "21032", "betegnelse" : "Furuspon, 3 cm", "pris" : 66.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 240, "hylle" : "B32"}
+{"vnr" : "21034", "betegnelse" : "Parasoll, 2.5 m, stål", "pris" : 580.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 0, "hylle" : "F03"}
+{"vnr" : "21037", "betegnelse" : "Figurtråd, 50 m", "pris" : 338.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "21510", "betegnelse" : "Ispinner, 100 stk", "pris" : 40.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "21514", "betegnelse" : "Cocktailpinner, 100 st", "pris" : 32.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "21515", "betegnelse" : "Blomsterpinner, 5 stk", "pris" : 31.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "21517", "betegnelse" : "Tannpirkere, 100 stk", "pris" : 18.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "21580", "betegnelse" : "Sponflis, natur", "pris" : 15.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B36"}
+{"vnr" : "22002", "betegnelse" : "Fyrstikker, 150gr", "pris" : 63.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 460, "hylle" : "C17"}
+{"vnr" : "22054", "betegnelse" : "Vannkanne, 5 ltr.", "pris" : 81.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 24, "hylle" : "A27"}
+{"vnr" : "22055", "betegnelse" : "Bensinkanne 5 ltr., grønn", "pris" : 246.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 110, "hylle" : "A27"}
+{"vnr" : "22056", "betegnelse" : "Nettingbøtte, plast", "pris" : 150.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 6, "hylle" : "A27"}
+{"vnr" : "22165", "betegnelse" : "Hafa gressklipper G8, bensin", "pris" : 6210.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 16, "hylle" : "A01"}
+{"vnr" : "22179", "betegnelse" : "Hafa gresklipper G9, elektrisk", "pris" : 1656.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 24, "hylle" : "A01"}
+{"vnr" : "22870", "betegnelse" : "Dukkeøyne, 7 mm blå", "pris" : 24.00, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 252, "hylle" : "E12"}
+{"vnr" : "25079", "betegnelse" : "Trillebår", "pris" : 384.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 46, "hylle" : "A11"}
+{"vnr" : "25121", "betegnelse" : "Hafa elektrisk hekksaks Z3", "pris" : 481.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 110, "hylle" : "A12"}
+{"vnr" : "25131", "betegnelse" : "Juwa Motorsag XY65", "pris" : 1240.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 42, "hylle" : "A29"}
+{"vnr" : "25136", "betegnelse" : "Juwa Anleggspade", "pris" : 207.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 6, "hylle" : "A30"}
+{"vnr" : "25137", "betegnelse" : "Juwa Snøskuffe, standard", "pris" : 262.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 30, "hylle" : "A04"}
+{"vnr" : "25138", "betegnelse" : "Grensaks med sideskjær", "pris" : 191.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 2, "hylle" : "A21"}
+{"vnr" : "25154", "betegnelse" : "Ljå", "pris" : 317.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 4, "hylle" : "A17"}
+{"vnr" : "32055", "betegnelse" : "Juwa Barkespade", "pris" : 150.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 0, "hylle" : "A15"}
+{"vnr" : "32067", "betegnelse" : "Juwa Hagerive, 14 rette tinder", "pris" : 108.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 440, "hylle" : "A14"}
+{"vnr" : "32069", "betegnelse" : "Stikkspade", "pris" : 177.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 26, "hylle" : "A12"}
+{"vnr" : "32191", "betegnelse" : "Formgummi 0.5 l", "pris" : 462.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 88, "hylle" : "B04"}
+{"vnr" : "32610", "betegnelse" : "Gipsform lysestaker", "pris" : 122.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 58, "hylle" : "B02"}
+{"vnr" : "33044", "betegnelse" : "Blandet blomsterfrø", "pris" : 16.50, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 1080, "hylle" : "E05"}
+{"vnr" : "33045", "betegnelse" : "Blomkarse", "pris" : 20.50, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 1206, "hylle" : "E05"}
+{"vnr" : "33046", "betegnelse" : "Brudeslør", "pris" : 17.00, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 640, "hylle" : "E05"}
+{"vnr" : "33047", "betegnelse" : "Rød pelargonium", "pris" : 18.00, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 240, "hylle" : "E05"}
+{"vnr" : "35911", "betegnelse" : "Meksikansk solsikke", "pris" : 13.50, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 46, "hylle" : "E05"}
+{"vnr" : "35912", "betegnelse" : "Stemorsblomst", "pris" : 13.50, "kategori" : {"katnr" : 15, "navn" : "Blomsterfrø"}, "antall" : 0, "hylle" : "E05"}
+{"vnr" : "37710", "betegnelse" : "Balkongtomat", "pris" : 40.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 0, "hylle" : "E24"}
+{"vnr" : "37720", "betegnelse" : "Bifftomat", "pris" : 48.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 88, "hylle" : "E24"}
+{"vnr" : "37725", "betegnelse" : "Gul pottetomat", "pris" : 41.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 24, "hylle" : "E24"}
+{"vnr" : "37730", "betegnelse" : "Slangeagurk", "pris" : 27.50, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 52, "hylle" : "E24"}
+{"vnr" : "37731", "betegnelse" : "Sylteagurk", "pris" : 35.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 402, "hylle" : "E24"}
+{"vnr" : "37732", "betegnelse" : "Rødløk", "pris" : 31.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 0, "hylle" : "E25"}
+{"vnr" : "41020", "betegnelse" : "Hobbyleire terrakotta, 1 kg", "pris" : 108.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 58, "hylle" : "B02"}
+{"vnr" : "41096", "betegnelse" : "Blåleire, 10kg", "pris" : 132.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 460, "hylle" : "B02"}
+{"vnr" : "41097", "betegnelse" : "Rød leire, 10kg", "pris" : 163.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 580, "hylle" : "B02"}
+{"vnr" : "41098", "betegnelse" : "Keramisk leire", "pris" : 95.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 834, "hylle" : "B02"}
+{"vnr" : "42613", "betegnelse" : "Gipsform klovner", "pris" : 122.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 210, "hylle" : "B02"}
+{"vnr" : "42615", "betegnelse" : "Gipsform marihøner", "pris" : 122.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 124, "hylle" : "B03"}
+{"vnr" : "42626", "betegnelse" : "Gipsform fisker m.m.", "pris" : 162.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 62, "hylle" : "B03"}
+{"vnr" : "42929", "betegnelse" : "Pepperkakeformer", "pris" : 95.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 38, "hylle" : "B09"}
+{"vnr" : "42933", "betegnelse" : "Former til leire, stjerner", "pris" : 79.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 78, "hylle" : "B04"}
+{"vnr" : "42934", "betegnelse" : "Former til leire, hjerter", "pris" : 79.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 204, "hylle" : "B04"}
+{"vnr" : "42939", "betegnelse" : "Pepperkakeformer, 15stk", "pris" : 109.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 640, "hylle" : "B09"}
+{"vnr" : "42941", "betegnelse" : "Julesett", "pris" : 82.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 1040, "hylle" : "B29"}
+{"vnr" : "42945", "betegnelse" : "Metallform praliner, 9stk", "pris" : 93.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 24, "hylle" : "B04"}
+{"vnr" : "43000", "betegnelse" : "Startsett papir", "pris" : 621.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 134, "hylle" : "B25"}
+{"vnr" : "43014", "betegnelse" : "Treramme A4", "pris" : 428.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 24, "hylle" : "B25"}
+{"vnr" : "43015", "betegnelse" : "Treramme A5", "pris" : 331.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 0, "hylle" : "B32"}
+{"vnr" : "44939", "betegnelse" : "Hobbymaling, 6 farger", "pris" : 132.00, "kategori" : {"katnr" : 2, "navn" : "Hobbymaling"}, "antall" : 2, "hylle" : "B02"}
+{"vnr" : "45101", "betegnelse" : "Papirleire, 450 gr", "pris" : 66.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 80, "hylle" : "B04"}
+{"vnr" : "45105", "betegnelse" : "Pappmachepulver", "pris" : 52.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 162, "hylle" : "B04"}
+{"vnr" : "45923", "betegnelse" : "Krukke med føtter, 12cm", "pris" : 48.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 604, "hylle" : "B32"}
+{"vnr" : "45935", "betegnelse" : "Potteskål, diameter 10cm", "pris" : 22.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 258, "hylle" : "B30"}
+{"vnr" : "46702", "betegnelse" : "Terrakottafigur katt", "pris" : 82.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 138, "hylle" : "B30"}
+{"vnr" : "46706", "betegnelse" : "Sparegris terrakotta", "pris" : 31.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 176, "hylle" : "B30"}
+{"vnr" : "46738", "betegnelse" : "Terrakottafat med hjerter", "pris" : 46.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 22, "hylle" : "B31"}
+{"vnr" : "46741", "betegnelse" : "Lyskrukke, 4cm", "pris" : 12.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 118, "hylle" : "B31"}
+{"vnr" : "46745", "betegnelse" : "Terrakottakrukke 20x10cm", "pris" : 50.50, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 24, "hylle" : "B31"}
+{"vnr" : "47903", "betegnelse" : "HaFa snøfreser Maxi", "pris" : 12896.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 6, "hylle" : "A04"}
+{"vnr" : "49916", "betegnelse" : "Lezlo leire, brun, 150gr.", "pris" : 29.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 24, "hylle" : "B04"}
+{"vnr" : "49917", "betegnelse" : "Lezlo leire, sort, 150 gr.", "pris" : 29.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 184, "hylle" : "B04"}
+{"vnr" : "49919", "betegnelse" : "Lezlo leiresett", "pris" : 67.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 42, "hylle" : "B04"}
+{"vnr" : "49921", "betegnelse" : "Lezlo leire, økonomipakke", "pris" : 411.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 164, "hylle" : "B04"}
+{"vnr" : "55112", "betegnelse" : "HaFa løvblåser AX30", "pris" : 688.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 22, "hylle" : "A03"}
+{"vnr" : "55129", "betegnelse" : "Lek med lakris", "pris" : 177.00, "kategori" : {"katnr" : 10, "navn" : "Bøker"}, "antall" : 64, "hylle" : "C20"}
+{"vnr" : "55130", "betegnelse" : "Moro med marsipan", "pris" : 343.50, "kategori" : {"katnr" : 10, "navn" : "Bøker"}, "antall" : 140, "hylle" : "C20"}
+{"vnr" : "55550", "betegnelse" : "Juwa jordfreser mx40", "pris" : 1792.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 14, "hylle" : "A03"}
+{"vnr" : "58028", "betegnelse" : "Cernit dukkeleire lys", "pris" : 163.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 44, "hylle" : "B04"}
+{"vnr" : "59915", "betegnelse" : "Juwa leire grønn, 150 gr.", "pris" : 29.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 34, "hylle" : "B04"}
+{"vnr" : "64509", "betegnelse" : "Kongelilje, 10 stk.", "pris" : 163.00, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 132, "hylle" : "E03"}
+{"vnr" : "64510", "betegnelse" : "Lilje mercedes, 10 stk.", "pris" : 177.00, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 164, "hylle" : "E03"}
+{"vnr" : "64511", "betegnelse" : "Lilje sibir, 20 stk.", "pris" : 261.50, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 278, "hylle" : "E03"}
+{"vnr" : "64550", "betegnelse" : "Småsymre, 10 stk.", "pris" : 145.00, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 58, "hylle" : "E03"}
+{"vnr" : "64551", "betegnelse" : "Hengebegonia, 10 stk.", "pris" : 136.00, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 206, "hylle" : "   "}
+{"vnr" : "64552", "betegnelse" : "Storblomstret begonia, 20 stk.", "pris" : 317.00, "kategori" : {"katnr" : 16, "navn" : "Blomsterløker"}, "antall" : 42, "hylle" : "E03"}
+{"vnr" : "65032", "betegnelse" : "Hafa gressklipper skyv", "pris" : 688.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 34, "hylle" : "A01"}
+{"vnr" : "65033", "betegnelse" : "Hafa Y15 gresstrimmer", "pris" : 1201.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 80, "hylle" : "A02"}
+{"vnr" : "65034", "betegnelse" : "Hafa SX90 plentraktor", "pris" : 17250.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 8, "hylle" : "A05"}
+{"vnr" : "65060", "betegnelse" : "Strandtennis", "pris" : 53.50, "kategori" : {"katnr" : 11, "navn" : "Leker"}, "antall" : 94, "hylle" : "C31"}
+{"vnr" : "65070", "betegnelse" : "Boule", "pris" : 136.50, "kategori" : {"katnr" : 11, "navn" : "Leker"}, "antall" : 100, "hylle" : "C31"}
+{"vnr" : "65080", "betegnelse" : "Barnetrillebår", "pris" : 550.00, "kategori" : {"katnr" : 11, "navn" : "Leker"}, "antall" : 50, "hylle" : "C31"}
+{"vnr" : "65081", "betegnelse" : "Plantegreip", "pris" : 129.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 34, "hylle" : "A22"}
+{"vnr" : "65082", "betegnelse" : "Kvistsag", "pris" : 200.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 8, "hylle" : "A25"}
+{"vnr" : "65122", "betegnelse" : "Skjermvegg med gresspyd", "pris" : 1792.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 0, "hylle" : "F07"}
+{"vnr" : "65142", "betegnelse" : "Gressaks, svingbar", "pris" : 107.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 20, "hylle" : "A21"}
+{"vnr" : "65143", "betegnelse" : "Fruktplukker", "pris" : 96.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 16, "hylle" : "A13"}
+{"vnr" : "65147", "betegnelse" : "Fluktstol, sammenleggbar", "pris" : 274.50, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 46, "hylle" : "F09"}
+{"vnr" : "65190", "betegnelse" : "Hageslange, 20 m., grønn", "pris" : 219.50, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 2, "hylle" : "A28"}
+{"vnr" : "65191", "betegnelse" : "Blomsterkasse", "pris" : 26.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 26, "hylle" : "A27"}
+{"vnr" : "65247", "betegnelse" : "Liten plantespade", "pris" : 86.00, "kategori" : {"katnr" : 1, "navn" : "Hageutstyr"}, "antall" : 76, "hylle" : "A25"}
+{"vnr" : "71912", "betegnelse" : "Eggemaler med maling", "pris" : 40.00, "kategori" : {"katnr" : 17, "navn" : "Dekorasjoner"}, "antall" : 182, "hylle" : "C17"}
+{"vnr" : "72777", "betegnelse" : "Julehobbypakke for barn", "pris" : 177.00, "kategori" : {"katnr" : 20, "navn" : "Hobbypakker"}, "antall" : 820, "hylle" : "A06"}
+{"vnr" : "72942", "betegnelse" : "Plukksalat", "pris" : 40.50, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 280, "hylle" : "E21"}
+{"vnr" : "72943", "betegnelse" : "Brekkbønner", "pris" : 40.50, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 342, "hylle" : "E21"}
+{"vnr" : "72944", "betegnelse" : "Sukkererter", "pris" : 48.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 478, "hylle" : "A06"}
+{"vnr" : "76032", "betegnelse" : "Kalk, granulert, 25 kg", "pris" : 384.50, "kategori" : {"katnr" : 21, "navn" : "Gjødsel"}, "antall" : 60, "hylle" : "E20"}
+{"vnr" : "77033", "betegnelse" : "Japanbarlind", "pris" : 412.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 168, "hylle" : "D01"}
+{"vnr" : "77036", "betegnelse" : "Dvergtuja", "pris" : 412.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 46, "hylle" : "D01"}
+{"vnr" : "77038", "betegnelse" : "Gul søyletuja", "pris" : 550.00, "kategori" : {"katnr" : 14, "navn" : "Busker"}, "antall" : 8, "hylle" : "D01"}
+{"vnr" : "77249", "betegnelse" : "Hagebenk, furu", "pris" : 1792.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 4, "hylle" : "F01"}
+{"vnr" : "77251", "betegnelse" : "Bord, 102 cm diameter", "pris" : 757.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 68, "hylle" : "F03"}
+{"vnr" : "77252", "betegnelse" : "Stol, hvit plast", "pris" : 39.50, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 36, "hylle" : "F03"}
+{"vnr" : "77276", "betegnelse" : "Sofagruppe, 2+3", "pris" : 5242.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 14, "hylle" : "F01"}
+{"vnr" : "77277", "betegnelse" : "Parasoll, 2.5 meter, stål, kr", "pris" : 412.00, "kategori" : {"katnr" : 12, "navn" : "Hagemøbler"}, "antall" : 18, "hylle" : "F02"}
+{"vnr" : "78029", "betegnelse" : "Cernit dukkeleire mørk", "pris" : 163.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 82, "hylle" : "B04"}
+{"vnr" : "80032", "betegnelse" : "Arena høst, 25 kg", "pris" : 177.50, "kategori" : {"katnr" : 21, "navn" : "Gjødsel"}, "antall" : 114, "hylle" : "E20"}
+{"vnr" : "80082", "betegnelse" : "Aluminiumsulfat, 25 kg", "pris" : 136.50, "kategori" : {"katnr" : 21, "navn" : "Gjødsel"}, "antall" : 62, "hylle" : "E20"}
+{"vnr" : "80088", "betegnelse" : "Fullgjødsel, 40 kg", "pris" : 245.00, "kategori" : {"katnr" : 21, "navn" : "Gjødsel"}, "antall" : 452, "hylle" : "E20"}
+{"vnr" : "80692", "betegnelse" : "Rørespatel", "pris" : 45.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 602, "hylle" : "B17"}
+{"vnr" : "81007", "betegnelse" : "Hobbyleire, hvit 500g", "pris" : 71.50, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 112, "hylle" : "B02"}
+{"vnr" : "82090", "betegnelse" : "Matløk", "pris" : 35.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 38, "hylle" : "E25"}
+{"vnr" : "82092", "betegnelse" : "Sommergulrot", "pris" : 21.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 178, "hylle" : "E25"}
+{"vnr" : "82093", "betegnelse" : "Rund gulrot", "pris" : 28.00, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 658, "hylle" : "E25"}
+{"vnr" : "82095", "betegnelse" : "Hodesalat", "pris" : 27.50, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 500, "hylle" : "E21"}
+{"vnr" : "82096", "betegnelse" : "Issalat", "pris" : 31.50, "kategori" : {"katnr" : 18, "navn" : "Grønnsaksfrø"}, "antall" : 388, "hylle" : "E21"}
+{"vnr" : "83013", "betegnelse" : "Tilda maling teddybrun", "pris" : 53.00, "kategori" : {"katnr" : 2, "navn" : "Hobbymaling"}, "antall" : 86, "hylle" : "B01"}
+{"vnr" : "90106", "betegnelse" : "Deigskrape av plast", "pris" : 44.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 46, "hylle" : "B04"}
+{"vnr" : "90109", "betegnelse" : "Metallskrape", "pris" : 46.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 38, "hylle" : "B05"}
+{"vnr" : "90116", "betegnelse" : "Smaksemne sjokolade 10ml", "pris" : 58.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 164, "hylle" : "B06"}
+{"vnr" : "90164", "betegnelse" : "Lakrisekstrakt, 100g", "pris" : 86.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 104, "hylle" : "B06"}
+{"vnr" : "90192", "betegnelse" : "Dropsform skjell", "pris" : 81.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 176, "hylle" : "B17"}
+{"vnr" : "90208", "betegnelse" : "Form nisse", "pris" : 82.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 70, "hylle" : "B17"}
+{"vnr" : "90209", "betegnelse" : "Form vingummi", "pris" : 82.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 32, "hylle" : "B17"}
+{"vnr" : "90212", "betegnelse" : "Form skjell", "pris" : 82.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 240, "hylle" : "B17"}
+{"vnr" : "90510", "betegnelse" : "Kakestativ", "pris" : 495.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 60, "hylle" : "B17"}
+{"vnr" : "90521", "betegnelse" : "Kakemønstermaler", "pris" : 163.50, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 38, "hylle" : "B18"}
+{"vnr" : "90531", "betegnelse" : "Kakekutter", "pris" : 95.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 160, "hylle" : "B18"}
+{"vnr" : "90545", "betegnelse" : "Kakesprøyte sett", "pris" : 331.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 46, "hylle" : "B18"}
+{"vnr" : "90693", "betegnelse" : "Marsipantang", "pris" : 66.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 0, "hylle" : "B17"}
+{"vnr" : "90737", "betegnelse" : "Startsett lakris", "pris" : 407.00, "kategori" : {"katnr" : 4, "navn" : "Konfekt og marsipan"}, "antall" : 126, "hylle" : "B09"}
+{"vnr" : "91008", "betegnelse" : "Hobbyleire, hvit 1 kg", "pris" : 108.00, "kategori" : {"katnr" : 3, "navn" : "Keramikk"}, "antall" : 20, "hylle" : "B02"}
+{"vnr" : "92606", "betegnelse" : "Gipsform nisser 6-14cm", "pris" : 122.00, "kategori" : {"katnr" : 13, "navn" : "Dukker og nisser"}, "antall" : 46, "hylle" : "E11"}

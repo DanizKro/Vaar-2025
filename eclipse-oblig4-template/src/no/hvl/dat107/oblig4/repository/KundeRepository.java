@@ -31,18 +31,23 @@ public class KundeRepository {
 		return kunder.find(eq("knr", knr)).first();
 	}
 
-	public Kunde save(Integer kundeNr, String fornavn, String etternavn, String adresse, String postnr) {
+	public Kunde save(Kunde kunde) {
 		
-		Kunde ny1 = new Kunde();
+		kunder.insertOne(kunde);
 		
-		return ny1;
+		return kunde;
 	}
 
-	public /* TODO */ delete(/* TODO */) {
-		/* TODO */
+	public Kunde delete(int knr) {
+		return kunder.findOneAndDelete(eq("knr", knr));
 	}
 
-	public /* TODO */ update(/* TODO */) {
-		/* TODO */
+	public Kunde update(Object id, Kunde oppdatertKunde) {
+		
+		Bson filter = eq("_id", id);
+		
+		kunder.replaceOne(filter, oppdatertKunde);
+		
+		return kunder.findOneAndReplace(filter, oppdatertKunde);
 	}
 }
